@@ -32,7 +32,7 @@ CREATE TABLE section_types (
 );
 CREATE TABLE prompts (
     prompt_id int PRIMARY KEY,
-    section_id int REFERENCES sections(section_id),
+    type_id int REFERENCES section_types(type_id),
     content varchar
 );
 CREATE TABLE conditions (
@@ -42,7 +42,7 @@ CREATE TABLE conditions (
 )
 
 CREATE TABLE questions (
-    question_id SERIAL PRIMARY KEY,
+    question_id int PRIMARY KEY,
     prompt_id int REFERENCES prompts(prompt_id),
     content varchar
 );
@@ -54,14 +54,5 @@ CREATE TABLE answers(
     is_correct boolean
 );
 
-CREATE TABLE reviews(
-    id serial PRIMARY KEY,
-    landmark_id int REFERENCES landmarks(id),
-    user_id int REFERENCES users(user_id),
-    username varchar NULL,
-    title varchar NOT NULL,
-    is_liked boolean NOT NULL,
-    description varchar NULL
-);
 
 COMMIT TRANSACTION;
