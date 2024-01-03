@@ -1,0 +1,729 @@
+A company employee generates a series of five-digit product
+codes in accordance with the following rules:
+
+Exactly three films—Greed, Harvest, and Limelight—are
+shown during a film club’s festival held on Thursday, Friday,
+and Saturday. Each film is shown at least once during the
+festival but never more than once on a given day. On each day
+at least one film is shown. Films are shown one at a time. The
+following conditions apply:
+
+A cruise line is scheduling seven week-long voyages for the
+ship Freedom. Each voyage will occur in exactly one of the
+first seven weeks of the season: weeks 1 through 7. Each
+voyage will be to exactly one of four destinations:
+Guadeloupe, Jamaica, Martinique, or Trinidad. Each
+destination will be scheduled for at least one of the weeks. The
+following conditions apply to Freedom’s schedule:
+
+There are exactly three recycling centers in Rivertown:
+Center 1, Center 2, and Center 3. Exactly five kinds of
+material are recycled at these recycling centers: glass,
+newsprint, plastic, tin, and wood. Each recycling center
+recycles at least two but no more than three of these kinds of
+material. The following conditions must hold:
+
+.
+
+Economist: Every business strives to increase its
+productivity, for this increases profits for the
+owners and the likelihood that the business will
+survive. But not all efforts to increase
+productivity are beneficial to the business as a
+whole. Often, attempts to increase productivity
+decrease the number of employees, which clearly
+harms the dismissed employees as well as the
+
+All Labrador retrievers bark a great deal. All Saint
+Bernards bark infrequently. Each of Rosa’s dogs is a
+cross between a Labrador retriever and a Saint Bernard.
+Therefore, Rosa’s dogs are moderate barkers.
+
+A century in certain ways is like a life, and as the end
+of a century approaches, people behave toward that
+century much as someone who is nearing the end of
+life does toward that life. So just as people in their last
+years spend much time looking back on the events of
+their life, people at a century’s end _______.
+
+Consumer: The latest Connorly Report suggests that
+Ocksenfrey prepackaged meals are virtually
+devoid of nutritional value. But the Connorly
+Report is commissioned by Danto Foods,
+Ocksenfrey’s largest corporate rival, and early
+drafts of the report are submitted for approval to
+Danto Foods’ public relations department.
+Because of the obvious bias of this report, it is
+clear that Ocksenfrey’s prepackaged meals really
+are nutritious.
+
+Scientist: Earth’s average annual temperature has
+increased by about 0.5 degrees Celsius over the
+last century. This warming is primarily the result
+of the buildup of minor gases in the atmosphere,
+blocking the outward flow of heat from the
+planet.
+
+An undergraduate degree is necessary for appointment
+to the executive board. Further, no one with a felony
+conviction can be appointed to the board. Thus,
+Murray, an accountant with both a bachelor’s and a
+master’s degree, cannot be accepted for the position of
+Executive Administrator, since he has a felony
+conviction.
+
+Ethicist: The most advanced kind of moral motivation
+is based solely on abstract principles. This form
+of motivation is in contrast with calculated selfinterest or the desire to adhere to societal norms
+and conventions.
+
+Proponents of the electric car maintain that when the
+technical problems associated with its battery design
+are solved, such cars will be widely used and, because
+they are emission-free, will result in an abatement of
+the environmental degradation caused by auto
+emissions. But unless we dam more rivers, the
+electricity to charge these batteries will come from
+nuclear or coal-fired power plants. Each of these three
+power sources produces considerable environmental
+damage. Thus, the electric car _______.
+
+Although video game sales have increased steadily over
+the past 3 years, we can expect a reversal of this trend
+in the very near future. Historically, over three quarters
+of video games sold have been purchased by people
+from 13 to 16 years of age, and the number of people
+in this age group is expected to decline steadily over
+the next 10 years.
+
+Double-blind techniques should be used whenever
+possible in scientific experiments. They help prevent
+the misinterpretations that often arise due to
+expectations and opinions that scientists already hold,
+and clearly scientists should be extremely diligent in
+trying to avoid such misinterpretations.
+
+It is now a common complaint that the electronic
+media have corroded the intellectual skills required and
+fostered by the literary media. But several centuries
+ago the complaint was that certain intellectual skills,
+such as the powerful memory and extemporaneous
+eloquence that were intrinsic to oral culture, were being
+destroyed by the spread of literacy. So, what awaits us
+is probably a mere alteration of the human mind rather
+than its devolution.
+
+Suppose I have promised to keep a confidence and
+someone asks me a question that I cannot answer
+truthfully without thereby breaking the promise.
+Obviously, I cannot both keep and break the same
+promise. Therefore, one cannot be obliged both to
+answer all questions truthfully and to keep all
+promises.
+
+Standard aluminum soft-drink cans do not vary in the
+amount of aluminum that they contain. Fifty percent of
+the aluminum contained in a certain group (M) of
+standard aluminum soft-drink cans was recycled from
+another group (L) of used, standard aluminum softdrink cans. Since all the cans in L were recycled into
+cans in M and since the amount of material other than
+aluminum in an aluminum can is negligible, it follows
+that M contains twice as many cans as L.
+
+A cup of raw milk, after being heated in a microwave
+oven to 50 degrees Celsius, contains half its initial
+concentration of a particular enzyme, lysozyme. If,
+however, the milk reaches that temperature through
+exposure to a conventional heat source of 50 degrees
+Celsius, it will contain nearly all of its initial
+concentration of the enzyme. Therefore, what destroys
+the enzyme is not heat but microwaves, which generate
+heat.
+
+A new government policy has been developed to avoid
+many serious cases of influenza. This goal will be
+accomplished by the annual vaccination of high-risk
+individuals: everyone 65 and older as well as anyone
+with a chronic disease that might cause them to
+experience complications from the influenza virus.
+Each year’s vaccination will protect only against the
+strain of the influenza virus deemed most likely to be
+prevalent that year, so every year it will be necessary
+for all high-risk individuals to receive a vaccine for a
+different strain of the virus.
+
+Taylor: Researchers at a local university claim that
+61 percent of the information transferred during a
+conversation is communicated through nonverbal
+signals. But this claim, like all such
+mathematically precise claims, is suspect, because
+claims of such exactitude could never be
+established by science.
+Sandra: While precision is unobtainable in many areas
+of life, it is commonplace in others. Many
+scientific disciplines obtain extremely precise
+results, which should not be doubted merely
+because of their precision.
+
+Hospital executive: At a recent conference on nonprofit
+management, several computer experts
+maintained that the most significant threat faced
+by large institutions such as universities and
+hospitals is unauthorized access to confidential
+data. In light of this testimony, we should make
+the protection of our clients’ confidentiality our
+highest priority.
+
+Modern science is built on the process of posing
+hypotheses and testing them against observations—in
+essence, attempting to show that the hypotheses are
+incorrect. Nothing brings more recognition than
+overthrowing conventional wisdom. It is accordingly
+unsurprising that some scientists are skeptical of the
+widely accepted predictions of global warming. What is
+instead remarkable is that with hundreds of researchers
+striving to make breakthroughs in climatology, very
+few find evidence that global warming is unlikely.
+
+Historian: The Land Party achieved its only national
+victory in Banestria in 1935. It received most of
+its support that year in rural and semirural areas,
+where the bulk of Banestria’s population lived at
+the time. The economic woes of the years
+surrounding that election hit agricultural and
+small business interests the hardest, and the Land
+Party specifically targeted those groups in 1935. I
+conclude that the success of the Land Party that
+year was due to the combination of the Land
+Party’s specifically addressing the concerns of
+these groups and the depth of the economic
+problems people in these groups were facing.
+
+Gamba: Muñoz claims that the Southwest Hopeville
+Neighbors Association overwhelmingly opposes
+the new water system, citing this as evidence of
+citywide opposition. The association did pass a
+resolution opposing the new water system, but
+only 25 of 350 members voted, with 10 in favor
+of the system. Furthermore, the 15 opposing
+votes represent far less than 1 percent of
+Hopeville’s population. One should not assume
+that so few votes represent the view of the
+majority of Hopeville’s residents.
+
+Driver: My friends say I will one day have an accident
+because I drive my sports car recklessly. But I
+have done some research, and apparently
+minivans and larger sedans have very low
+accident rates compared to sports cars. So trading
+my sports car in for a minivan would lower my
+risk of having an accident.
+
+Editorialist: News media rarely cover local politics
+thoroughly, and local political business is usually
+conducted secretively. These factors each tend to
+isolate local politicians from their electorates.
+This has the effect of reducing the chance that
+any particular act of resident participation will
+elicit a positive official response, which in turn
+discourages resident participation in local politics.
+
+Philosopher: An action is morally right if it would be
+reasonably expected to increase the aggregate
+well-being of the people affected by it. An action
+is morally wrong if and only if it would be
+reasonably expected to reduce the aggregate wellbeing of the people affected by it. Thus, actions
+that would be reasonably expected to leave
+unchanged the aggregate well-being of the people
+affected by them are also right.
+
+Car companies solicit consumer information on such
+human factors as whether a seat is comfortable or
+whether a set of controls is easy to use. However,
+designer interaction with consumers is superior to
+survey data; the data may tell the designer why a
+feature on last year’s model was given a low rating,
+but data will not explain how that feature needs to be
+changed in order to receive a higher rating.
+
+During the nineteenth century, the French academy of
+art was a major financial sponsor of painting and
+sculpture in France; sponsorship by private individuals
+had decreased dramatically by this time. Because the
+academy discouraged innovation in the arts, there was
+little innovation in nineteenth century French sculpture.
+Yet nineteenth century French painting showed a
+remarkable degree of innovation.
+
+.
+
+Situation: Someone living in a cold climate buys a
+winter coat that is stylish but not warm in order to
+appear sophisticated.
+Analysis: People are sometimes willing to sacrifice
+sensual comfort or pleasure for the sake of
+appearances.
+
+After replacing his old gas water heater with a new,
+pilotless, gas water heater that is rated as highly
+efficient, Jimmy’s gas bills increased.
+
+Carolyn: The artist Marc Quinn has displayed, behind a
+glass plate, biologically replicated fragments of
+Sir John Sulston’s DNA, calling it a “conceptual
+portrait” of Sulston. But to be a portrait, something
+must bear a recognizable resemblance to its
+subject.
+Arnold: I disagree. Quinn’s conceptual portrait is a
+maximally realistic portrait, for it holds actual
+instructions according to which Sulston was
+created.
+
+Many corporations have begun decorating their halls
+with motivational posters in hopes of boosting their
+employees’ motivation to work productively. However,
+almost all employees at these corporations are already
+motivated to work productively. So these corporations’
+use of motivational posters is unlikely to achieve its
+intended purpose.
+
+Atrens: An early entomologist observed ants carrying
+particles to neighboring ant colonies and inferred
+that the ants were bringing food to their
+neighbors. Further research, however, revealed
+that the ants were emptying their own colony’s
+dumping site. Thus, the early entomologist was
+wrong.
+
+Jablonski, who owns a car dealership, has donated cars
+to driver education programs at area schools for over
+five years. She found the statistics on car accidents to be
+disturbing, and she wanted to do something to
+encourage better driving in young drivers. Some
+members of the community have shown their support for
+this action by purchasing cars from Jablonski’s
+dealership.
+
+Antonio: One can live a life of moderation by never
+deviating from the middle course. But then one
+loses the joy of spontaneity and misses the
+opportunities that come to those who are
+occasionally willing to take great chances, or to
+go too far.
+Marla: But one who, in the interests of moderation,
+never risks going too far is actually failing to live
+a life of moderation: one must be moderate even
+in one’s moderation.
+
+Advertisement: Fabric-Soft leaves clothes soft and
+fluffy, and its fresh scent is a delight. We
+conducted a test using over 100 consumers to
+prove Fabric-Soft is best. Each consumer was
+given one towel washed with Fabric-Soft and one
+towel washed without it. Ninety-nine percent of
+the consumers preferred the Fabric-Soft towel. So
+Fabric-Soft is the most effective fabric softener
+available.
+
+Naturalist: The recent claims that the Tasmanian tiger is
+not extinct are false. The Tasmanian tiger’s
+natural habitat was taken over by sheep farming
+decades ago, resulting in the animal’s systematic
+elimination from the area. Since then naturalists
+working in the region have discovered no hard
+evidence of its survival, such as carcasses or
+tracks. In spite of alleged sightings of the animal,
+the Tasmanian tiger no longer exists.
+
+Advertisers have learned that people are more easily
+encouraged to develop positive attitudes about things
+toward which they originally have neutral or even
+negative attitudes if those things are linked, with
+pictorial help rather than exclusively through prose, to
+things about which they already have positive attitudes.
+Therefore, advertisers are likely to _______.
+
+Feathers recently taken from seabirds stuffed and
+preserved in the 1880s have been found to contain only
+half as much mercury as feathers recently taken from
+living birds of the same species. Since mercury that
+accumulates in a seabird’s feathers as the feathers grow
+is derived from fish eaten by the bird, these results
+indicate that mercury levels in saltwater fish are higher
+now than they were 100 years ago.
+
+Novel X and Novel Y are both semiautobiographical
+novels and contain many very similar themes and
+situations, which might lead one to suspect plagiarism
+on the part of one of the authors. However, it is more
+likely that the similarity of themes and situations in the
+two novels is merely coincidental, since both authors are
+from very similar backgrounds and have led similar
+lives.
+
+Therapist: Cognitive psychotherapy focuses on
+changing a patient’s conscious beliefs. Thus,
+cognitive psychotherapy is likely to be more
+effective at helping patients overcome
+psychological problems than are forms of
+psychotherapy that focus on changing
+unconscious beliefs and desires, since only
+conscious beliefs are under the patient’s direct
+conscious control.
+
+Commentator: In academic scholarship, sources are
+always cited, and methodology and theoretical
+assumptions are set out, so as to allow critical
+study, replication, and expansion of scholarship.
+In open-source software, the code in which the
+program is written can be viewed and modified by
+individual users for their purposes without getting
+permission from the producer or paying a fee. In
+contrast, the code of proprietary software is kept
+secret, and modifications can be made only by the
+producer, for a fee. This shows that open-source
+software better matches the values embodied in
+academic scholarship, and since scholarship is
+central to the mission of universities, universities
+should use only open-source software.
+
+A consumer magazine surveyed people who had sought
+a psychologist’s help with a personal problem. Of those
+responding who had received treatment for 6 months or
+less, 20 percent claimed that treatment “made things a
+lot better.” Of those responding who had received longer
+treatment, 36 percent claimed that treatment “made
+things a lot better.” Therefore, psychological treatment
+lasting more than 6 months is more effective than
+shorter-term treatment.
+
+Philosopher: Nations are not literally persons; they
+have no thoughts or feelings, and, literally
+speaking, they perform no actions. Thus they
+have no moral rights or responsibilities. But no
+nation can survive unless many of its citizens
+attribute such rights and responsibilities to it, for
+nothing else could prompt people to make the
+sacrifices national citizenship demands.
+Obviously, then, a nation _______.
+
+When exercising the muscles in one’s back, it is
+important, in order to maintain a healthy back, to
+exercise the muscles on opposite sides of the spine
+equally. After all, balanced muscle development is
+needed to maintain a healthy back, since the muscles on
+opposite sides of the spine must pull equally in
+opposing directions to keep the back in proper
+alignment and protect the spine.
+
+Editorialist: In all cultures, it is almost universally
+accepted that one has a moral duty to prevent
+members of one’s family from being harmed.
+Thus, few would deny that if a person is known
+by the person’s parents to be falsely accused of a
+crime, it would be morally right for the parents to
+hide the accused from the police. Hence, it is also
+likely to be widely accepted that it is sometimes
+morally right to obstruct the police in their work.
+
+Editor: Many candidates say that if elected they will
+reduce governmental intrusion into voters’ lives.
+But voters actually elect politicians who instead
+promise that the government will provide
+assistance to solve their most pressing problems.
+Governmental assistance, however, costs money,
+and money can come only from taxes, which can
+be considered a form of governmental intrusion.
+Thus, governmental intrusion into the lives of
+voters will rarely be substantially reduced over
+time in a democracy.
+
+We should accept the proposal to demolish the old train
+station, because the local historical society, which
+vehemently opposes this, is dominated by people who
+have no commitment to long-term economic well-being.
+Preserving old buildings creates an impediment to new
+development, which is critical to economic health.
+
+Ethicist: On average, animals raised on grain must be
+fed sixteen pounds of grain to produce one pound
+of meat. A pound of meat is more nutritious for
+humans than a pound of grain, but sixteen pounds
+of grain could feed many more people than could
+a pound of meat. With grain yields leveling off,
+large areas of farmland going out of production
+each year, and the population rapidly expanding,
+we must accept the fact that consumption of meat
+will soon be morally unacceptable.
+
+If the price it pays for coffee beans continues to
+increase, the Coffee Shoppe will have to increase its
+prices. In that case, either the Coffee Shoppe will begin
+selling noncoffee products or its coffee sales will
+decrease. But selling noncoffee products will decrease
+the Coffee Shoppe’s overall profitability. Moreover, the
+Coffee Shoppe can avoid a decrease in overall
+profitability only if its coffee sales do not decrease.
+
+Political candidates’ speeches are loaded with promises
+and with expressions of good intention, but one must
+not forget that the politicians’ purpose in giving these
+speeches is to get themselves elected. Clearly, then,
+these speeches are selfishly motivated and the promises
+made in them are unreliable.
+
+Sociologist: Romantics who claim that people are not
+born evil but may be made evil by the imperfect
+institutions that they form cannot be right, for
+they misunderstand the causal relationship
+between people and their institutions. After all,
+institutions are merely collections of people.
+
+Some anthropologists argue that the human species
+could not have survived prehistoric times if the species
+had not evolved the ability to cope with diverse natural
+environments. However, there is considerable evidence
+that Australopithecus afarensis, a prehistoric species
+related to early humans, also thrived in a diverse array
+of environments, but became extinct. Hence, the
+anthropologists’ claim is false.
+
+.
+
+For decades, there has been a deep rift between
+poetry and fiction in the United States, especially in
+academic settings; graduate writing programs in
+universities, for example, train students as poets or as
+writers of fiction, but almost never as both. Both poets
+and writers of fiction have tended to support this
+separation, in large part because the current
+conventional wisdom holds that poetry should be
+elliptical and lyrical, reflecting inner states and
+processes of thought or feeling, whereas character and
+narrative events are the stock-in-trade of fiction.
+Certainly it is true that poetry and fiction are
+distinct genres, but why have specialized education
+and literary territoriality resulted from this distinction?
+The answer lies perhaps in a widespread attitude in
+U.S. culture, which often casts a suspicious eye on the
+generalist. Those with knowledge and expertise in
+multiple areas risk charges of dilettantism, as if ability
+in one field is diluted or compromised by
+accomplishment in another.
+Fortunately, there are signs that the bias against
+writers who cross generic boundaries is diminishing;
+several recent writers are known and respected for
+their work in both genres. One important example of
+this trend is Rita Dove, an African American writer
+highly acclaimed for both her poetry and her fiction. A
+few years ago, speaking at a conference entitled “Poets
+Who Write Fiction,” Dove expressed gentle
+incredulity about the habit of segregating the genres.
+She had grown up reading and loving both fiction and
+poetry, she said, unaware of any purported danger
+lurking in attempts to mix the two. She also studied for
+some time in Germany, where, she observes, “Poets
+write plays, novelists compose libretti, playwrights
+write novels—they would not understand our
+restrictiveness.”
+It makes little sense, Dove believes, to persist in
+the restrictive approach to poetry and fiction prevalent
+in the U.S., because each genre shares in the nature of
+the other. Indeed, her poetry offers example after
+example of what can only be properly regarded as
+lyric narrative. Her use of language in these poems is
+undeniably lyrical—that is, it evokes emotion and
+inner states without requiring the reader to organize
+ideas or events in a particular linear structure. Yet this
+lyric expression simultaneously presents the elements
+of a plot in such a way that the reader is led repeatedly
+to take account of clusters of narrative details within
+the lyric flow. Thus while the language is lyrical, it
+often comes to constitute, cumulatively, a work of
+narrative fiction. Similarly, many passages in her
+fiction, though undeniably prose, achieve the status of
+lyric narrative through the use of poetic rhythms and
+elliptical expression. In short, Dove bridges the gap
+between poetry and fiction not only by writing in both
+genres, but also by fusing the two genres within
+individual works.
+
+Passage A
+Did music and human language originate
+separately or together? Both systems use intonation
+and rhythm to communicate emotions. Both can be
+produced vocally or with tools, and people can produce
+both music and language silently to themselves.
+Brain imaging studies suggest that music and
+language are part of one large, vastly complicated,
+neurological system for processing sound. In fact,
+fewer differences than similarities exist between the
+neurological processing of the two. One could think of
+the two activities as different radio programs that can
+be broadcast over the same hardware. One noteworthy
+difference, though, is that, generally speaking, people
+are better at language than music. In music, anyone
+can listen easily enough, but most people do not
+perform well, and in many cultures composition is left
+to specialists. In language, by contrast, nearly
+everyone actively performs and composes.
+Given their shared neurological basis, it appears
+that music and language evolved together as brain size
+increased over the course of hominid evolution. But
+the primacy of language over music that we can
+observe today suggests that language, not music, was
+the primary function natural selection operated on.
+Music, it would seem, had little adaptive value of its
+own, and most likely developed on the coattails of
+language.
+Passage B
+Darwin claimed that since “neither the enjoyment
+nor the capacity of producing musical notes are
+faculties of the least [practical] use to manthey must
+be ranked amongst the most mysterious with which he
+is endowed.” I suggest that the enjoyment of and the
+capacity to produce musical notes are faculties
+of indispensable use to mothers and their infants and
+that it is in the emotional bonds created by the
+interaction of mother and child that we can discover
+the evolutionary origins of human music.
+Even excluding lullabies, which parents sing to
+infants, human mothers and infants under six months
+of age engage in ritualized, sequential behaviors,
+involving vocal, facial, and bodily interactions. Using
+face-to-face mother-infant interactions filmed at 24
+frames per second, researchers have shown that
+mothers and infants jointly construct mutually
+improvised interactions in which each partner tracks
+the actions of the other. Such episodes last from
+one-half second to three seconds and are composed of
+musical elements—variations in pitch, rhythm, timbre,
+volume, and tempo.
+What evolutionary advantage would such
+behavior have? In the course of hominid evolution,
+brain size increased rapidly. Contemporaneously, the
+increase in bipedality caused the birth canal to narrow.
+This resulted in hominid infants being born ever-more
+prematurely, leaving them much more helpless at birth.
+This helplessness necessitated longer, better maternal
+care. Under such conditions, the emotional bonds
+created in the premusical mother-infant interactions we
+observe in Homo sapiens today—behavior whose
+neurological basis essentially constitutes the capacity
+to make and enjoy music—would have conferred
+considerable evolutionary advantage.
+
+The World Wide Web, a network of electronically
+produced and interconnected (or “linked”) sites, called
+pages, that are accessible via personal computer, raises
+legal issues about the rights of owners of intellectual
+property, notably those who create documents for
+inclusion on Web pages. Some of these owners of
+intellectual property claim that unless copyright law is
+strengthened, intellectual property on the Web will not
+be protected from copyright infringement. Web users,
+however, claim that if their ability to access
+information on Web pages is reduced, the Web cannot
+live up to its potential as an open, interactive medium
+of communication.
+The debate arises from the Web’s ability to link
+one document to another. Links between sites are
+analogous to the inclusion in a printed text of
+references to other works, but with one difference: the
+cited document is instantly retrievable by a user who
+activates the link. This immediate accessibility creates
+a problem, since current copyright laws give owners of
+intellectual property the right to sue a distributor of
+unauthorized copies of their material even if that
+distributor did not personally make the copies. If
+person A, the author of a document, puts the document
+on a Web page, and person B, the creator of another
+Web page, creates a link to A’s document, is B
+committing copyright infringement?
+To answer this question, it must first be
+determined who controls distribution of a document on
+the Web. When A places a document on a Web page,
+this is comparable to recording an outgoing message
+on one’s telephone answering machine for others to
+hear. When B creates a link to A’s document, this is
+akin to B’s giving out A’s telephone number, thereby
+allowing third parties to hear the outgoing message for
+themselves. Anyone who calls can listen to the
+message; that is its purpose. While B’s link may
+indeed facilitate access to A’s document, the crucial
+point is that A, simply by placing that document on the
+Web, is thereby offering it for distribution. Therefore,
+even if B leads others to the document, it is A who
+actually controls access to it. Hence creating a link to a
+document is not the same as making or distributing a
+copy of that document. Moreover, techniques are
+already available by which A can restrict access to a
+document. For example, A may require a password to
+gain entry to A’s Web page, just as a telephone owner
+can request an unlisted number and disclose it only to
+selected parties. Such a solution would compromise
+the openness of the Web somewhat, but not as much as
+the threat of copyright infringement litigation.
+Changing copyright law to benefit owners of
+intellectual property is thus ill-advised because it
+would impede the development of the Web as a public
+forum dedicated to the free exchange of ideas.
+
+In tracing the changing face of the Irish
+landscape, scholars have traditionally relied primarily
+on evidence from historical documents. However, such
+documentary sources provide a fragmentary record at
+best. Reliable accounts are very scarce for many parts
+of Ireland prior to the seventeenth century, and many
+of the relevant documents from the sixteenth and
+seventeenth centuries focus selectively on matters
+relating to military or commercial interests.
+Studies of fossilized pollen grains preserved in
+peats and lake muds provide an additional means of
+investigating vegetative landscape change. Details of
+changes in vegetation resulting from both human
+activities and natural events are reflected in the kinds
+and quantities of minute pollen grains that become
+trapped in sediments. Analysis of samples can identify
+which kinds of plants produced the preserved pollen
+grains and when they were deposited, and in many
+cases the findings can serve to supplement or correct
+the documentary record.
+For example, analyses of samples from Long
+Lough in County Down have revealed significant
+patterns of cereal-grain pollen beginning by about 400
+A.D. The substantial clay content of the soil in this part
+of Down makes cultivation by primitive tools difficult.
+Historians thought that such soils were not tilled to
+any significant extent until the introduction of the
+moldboard plough to Ireland in the seventh century
+A.D. Because cereal cultivation would have required
+tilling of the soil, the pollen evidence indicates that
+these soils must indeed have been successfully tilled
+before the introduction of the new plough.
+Another example concerns flax cultivation in
+County Down, one of the great linen-producing areas
+of Ireland during the eighteenth century. Some aspects
+of linen production in Down are well documented, but
+the documentary record tells little about the cultivation
+of flax, the plant from which linen is made, in that
+area. The record of eighteenth-century linen
+production in Down, together with the knowledge that
+flax cultivation had been established in Ireland
+centuries before that time, led some historians to
+surmise that this plant was being cultivated in Down
+before the eighteenth century. But pollen analyses
+indicate that this is not the case; flax pollen was found
+only in deposits laid down since the eighteenth
+century.
+It must be stressed, though, that there are limits to
+the ability of the pollen record to reflect the vegetative
+history of the landscape. For example, pollen analyses
+cannot identify the species, but only the genus or
+family, of some plants. Among these is madder, a
+cultivated dye plant of historical importance in Ireland.
+Madder belongs to a plant family that also comprises
+various native weeds, including goosegrass. If madder
+pollen were present in a deposit it would be
+indistinguishable from that of uncultivated native
+species.

@@ -1,24 +1,65 @@
+from lsat_objects import Test, Prompt, Condition, Question, Answer
+
+def sandbox():
+    tests = read_tests()
+    for test in tests:
+        print(test)
 
 def main():
+    
+    statements = []
 
-    insert_statements = []
-
-    insert_statements.append(test_table())
+    statements.append(test_table())
+    
     test_id = int(input('test_id: '))
     section_totals, section_stmnts = sections_table(test_id)
-    insert_statements.append(scores_table(test_id, section_totals))
-    insert_statements.append(section_stmnts)
+    statements.append(scores_table(test_id, section_totals))
+    statements.append(section_stmnts)
     prompt_stmnts, sect_prompts, starting_id = prompts_table(section_totals)
-    insert_statements.append(prompt_stmnts)
+    statements.append(prompt_stmnts)
     condition_stmnts = conditions_table(sect_prompts[0], starting_id)
-    insert_statements.append(condition_stmnts)
+    statements.append(condition_stmnts)
     question_statements, qstart = questions_table(section_totals, sect_prompts, starting_id)
-    insert_statements.append(question_statements)
-    insert_statements.append(answers_table(section_totals, qstart))
+    statements.append(question_statements)
+    statements.append(answers_table(section_totals, qstart))
 
-    print_statements(insert_statements)
+    print_statements(statements)
     
+    # make questions and answers a list of list of lists (order matters)
+    # q_and_as = [['Insert question...', ['','','','','']], ['Insert question...' : ['','','','','']]]
+    # allows me to do an answer sheet so I can go A = 0 B = 1 etc
+    # from there I can go q_and_as[i][1][A] = (q_and_as[i][1][A])[:indexOf('FALSE')] + 'TRUE' + (q_and_as[i][1][A])[indexOf('FALSE') + 5:-1]
     
+
+def read_tests():
+
+    file = open('lsats-codified/tests.txt', 'r')
+    tests = []
+
+    line = file.readline()[0:-1]
+
+    while(line!=''):
+        tests.append(Test(line).get_insert())
+        line = file.readline()[0:-1]
+
+    file.close()
+
+    return tests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
 
@@ -50,7 +91,7 @@ def scores_table(test_id, section_totals):
     for i in range(total_points+1):
         values.append(test_id)
         values.append(i)
-        values.append(int(input(f'score for raw score of {i}: ')))
+        values.append(150)#int(input(f'score for raw score of {i}: ')))
         statements.append(ins_stmnt(title, columns, values))
         values = []
 
@@ -190,8 +231,8 @@ def print_statements(statements):
             print(statement)
         print()
         print()
-            
 
-    
+def info_dump(filePath):
 
-    
+
+    print()

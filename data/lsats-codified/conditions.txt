@@ -1,0 +1,47 @@
+The codes use the digits 0, 1, 2, 3, and 4, and no others.
+
+Each digit occurs exactly once in any code.
+
+The second digit has a value exactly twice that of the
+first digit.
+
+The value of the third digit is less than the value of the
+fifth digit.
+
+.
+
+On Thursday Harvest is shown, and no film is shown after
+it on that day.
+
+On Friday either Greed or Limelight, but not both, is
+shown, and no film is shown after it on that day.
+
+On Saturday either Greed or Harvest, but not both, is
+shown, and no film is shown after it on that day.
+
+.
+
+Jamaica will not be its destination in week 4.
+
+Trinidad will be its destination in week 7.
+
+Freedom will make exactly two voyages to Martinique,
+and at least one voyage to Guadeloupe will occur in some
+week between those two voyages.
+
+Guadeloupe will be its destination in the week preceding
+any voyage it makes to Jamaica.
+
+No destination will be scheduled for consecutive weeks.
+
+.
+
+Any recycling center that recycles wood also recycles
+newsprint.
+
+Every kind of material that Center 2 recycles is also
+recycled at Center 1.
+
+Only one of the recycling centers recycles plastic, and that
+recycling center does not recycle glass.
+
