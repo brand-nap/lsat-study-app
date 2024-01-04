@@ -18,6 +18,22 @@ class Test:
     def get_insert(self):
         return ins(Test.title, Test.columns, self.values)
     
+class Score:
+
+    title = 'scores'
+    columns = ['raw_score', 'lsat_score']
+
+    def __init__(self, raw_score, lsat_score):
+        self.raw_csore = raw_score
+        self.lsat_score = lsat_score
+        self.values = [raw_score, lsat_score]
+    
+    def get_raw_score(self):
+        return self.raw_score
+    def get_lsat_score(self):
+        return self.lsat_score
+    def get_insert(self):
+        return ins(Score.title, Score.columns, self.values)
 
 class Prompt:
 
@@ -33,6 +49,25 @@ class Prompt:
         self.questions = questions
         self.values = [Prompt.total, section, content]
         Prompt.total += 1
+
+    def __repr__(self):
+        conds = ['\n' + condition.get_content() for condition in self.conditions]
+        str_conds = ''
+
+        for cond in conds:
+            str_conds += conds
+
+        ques = [f'\n {q}' for q in self.questions]
+        str_ques = ''
+
+        for q in ques:
+            str_ques += q
+            
+        return f'S{self.section}, P{self.id}. {self.content} \nConditions{str_conds} \nQuestions{str_ques}'
+    
+    def __str__(self):
+        
+        return f'P{self.id}. {self.content}'
 
     def get_section(self):
         return self.section
@@ -51,6 +86,11 @@ class Prompt:
         self.conditions = conditions
     def set_questions(self, questions):
         self.questions = questions
+        
+    def append_questions(self, question):
+        self.questions.append(question)
+    def append_conditions(self, condition):
+        self.conditions.append(condition)
 
 class Condition:
     
@@ -64,6 +104,14 @@ class Condition:
         self.content = content
         self.values = [prompt_id, content]
         Condition.total += 1
+
+    def __repr__(self):
+            
+        return f'P{self.prompt_id}, C{self.id}. {self.content}'
+    
+    def __str__(self):
+        
+        return f'C{self.id}. {self.content}'
 
     def get_id(self):
         return self.id
@@ -82,6 +130,7 @@ class Question:
     total = 0
 
     def __init__(self, prompt_id, content, answers = [], correct = 0):
+        
         self.id = Question.total
         self.prompt_id = prompt_id
         self.content = content
@@ -89,7 +138,22 @@ class Question:
         self.correct = correct
         self.values = [Question.total, prompt_id, content]
         Question.total += 1
+        
+    def __repr__(self):
+        
+        str_answers = ''
+        
+        answers = ['\n' + answer for answer in self.answers]
+        for answer in answer:
+            str_answers += answer
+            
+        return f'Q{self.id}. {self.content} \nPrompt: {self.prompt_id} \n\nAnswers:{str_answers} \n\nCorrect: {self.correct}'
+    
+    def __str__(self):
+        
+        return f'Q{self.id}. {self.content}'
 
+        
     def get_id(self):
         return self.id
     def get_prompt_id(self):
@@ -124,8 +188,16 @@ class Answer:
         self.q_id = q_id
         self.content = content
         self.is_correct = is_correct
-        self.values = [q_id, content, is_correct]
+        self.values = [q_id, content, int(is_correct)]
         Answer.total +=1
+
+    def __repr__(self):
+            
+        return f'Q{self.q_id}, A{self.id}. {self.content} | {self.is_correct}'
+    
+    def __str__(self):
+        
+        return f'A{self.id}. {self.content}'
 
     def get_id(self):
         return self.id
@@ -140,7 +212,7 @@ class Answer:
 
     def set_is_correct(self, is_correct):
         self.is_correct = is_correct
-        self.values[2] = is_correct
+        self.values[2] = int(is_correct)
 
 
 

@@ -1,44 +1,46 @@
-from lsat_objects import Test, Prompt, Condition, Question, Answer
+from lsat_objects import Test, Score, Prompt, Condition, Question, Answer
 
 def sandbox():
-    prompts = read_prompts()
-
-    statements = [prompt.get_insert() for prompt in prompts]
-
-    for statement in statements:
-        print(statement)
+    '''experimental space for testing stuff'''
+    placeholder = True
 
 def main():
 
+    statements = []
+
+    # Read in all the master files | Convert text to lists of objects
     tests = read_tests()
     scores = read_scores()
     prompts = read_prompts()
-    
-    statements = []
+    questions = read_questions()
+    answers = read_answers()
+    conditions = read_conditions()
 
-    statements.append(test_table())
-    
-    test_id = int(input('test_id: '))
-    section_totals, section_stmnts = sections_table(test_id)
-    statements.append(scores_table(test_id, section_totals))
-    statements.append(section_stmnts)
-    prompt_stmnts, sect_prompts, starting_id = prompts_table(section_totals)
-    statements.append(prompt_stmnts)
-    condition_stmnts = conditions_table(sect_prompts[0], starting_id)
-    statements.append(condition_stmnts)
-    question_statements, qstart = questions_table(section_totals, sect_prompts, starting_id)
-    statements.append(question_statements)
-    statements.append(answers_table(section_totals, qstart))
+    # Place objects in their appropriate subcategories | Compute relational data
+    map_qs_as(questions, answers)
+    map_ps_qs(prompts, questions)
+    map_ps_cs(prompts, conditions)
 
-    print_statements(statements)
-    
-    # make questions and answers a list of list of lists (order matters)
-    # q_and_as = [['Insert question...', ['','','','','']], ['Insert question...' : ['','','','','']]]
-    # allows me to do an answer sheet so I can go A = 0 B = 1 etc
-    # from there I can go q_and_as[i][1][A] = (q_and_as[i][1][A])[:indexOf('FALSE')] + 'TRUE' + (q_and_as[i][1][A])[indexOf('FALSE') + 5:-1]
-    
+    # Retrieve the Insert statements for each collection | Append them to statements (list of lists)
+    statements.append([test.get_insert() for test in tests])
+    statements.append([score.get_insert() for score in scores])
+    statements.append([prompt.get_insert() for prompt in prompts])
+    statements.append([condition.get_insert() for condition in conditions])
+    statements.append([question.get_insert() for question in questions])
+    statements.append([answer.get_insert() for answer in answers])
 
+    print_statements(statements) # Output for use! 
+    
+    
+    
+#--------------------------------------------------------------------------------------------------------
+#-----------------------------------------FILE READ FUNCTIONS--------------------------------------------
+#--------------------------------------------------------------------------------------------------------
+    
 def read_tests():
+    """
+    Returns: list of Test objects
+    """
 
     file = open('lsats-codified/tests.txt', 'r')
     tests = []
@@ -46,37 +48,36 @@ def read_tests():
     line = file.readline()[:-1]
 
     while(line!=''):
-        tests.append(Test(line).get_insert())
+        tests.append(Test(line))
         line = file.readline()[:-1]
 
     file.close()
     return tests
 
-
 def read_scores():
+    """
+    Returns: list of Score objects
+    """
 
     file = open('lsats-codified/scores.txt', 'r')
-    scores = {}
+    scores = []
     metadata = file.readline()[:-1]
-
-    for i in range(105):
-        scores[i] = []
 
     line = file.readline()[:-1]
     
     while(line!=''):
-        score_info = line.split(',')
-        # map of all possible lsat scores for any given raw score
-        # ie. raw score: 90   lsat score: 170, 169, 173, 171
-        scores[int(scores_info[1])].append(scores_info[2])
+        test_id, raw_score, lsat_score = line.split(',')
+        scores.append(Score(raw_score, lsat_score))
         
         line = file.readline()[:-1]
         
     file.close()
     return scores
-    
 
 def read_prompts():
+    """
+    Returns: list of Prompt objects
+    """
 
     file = open('lsats-codified/prompts.txt', 'r', encoding = 'utf8')
     prompts = []
@@ -105,8 +106,10 @@ def read_prompts():
     file.close()
     return prompts
     
-    
 def read_questions():
+    """
+    Returns: list of Question objects
+    """
 
     file = open('lsats-codified/questions.txt', 'r', encoding = 'utf8')
     questions = []
@@ -139,8 +142,150 @@ def read_questions():
     file.close()
     return questions
 
+def read_answers():
+    """
+    Returns: list of Answer objects
+    """
 
+    file = open('lsats-codified/answers.txt', 'r', encoding = 'utf8')
+    answers = []
+
+    line = file.readline()[:-1]
+    section = 1
+    content_lines = []
+    content = ''
+    q_id = 0
+
+    while(section!=5):
+
+        if(line=='.'):
+            section +=1
+            line = file.readline()
+        elif(line==''):
+            content = single_line(content_lines)
+            answers.append(Answer(q_id//5, content))
+            content_lines = []
+            q_id+=1
+        else:
+            content_lines.append(line)
+
+        line = file.readline()[:-1]
+        
+    file.close()
+    return answers
+
+def read_answer_sheet():
+    """
+    Returns: list of indeces for any given question's correct answer
+             ie. Q1.C Q2.A Q3.D  ->  [2, 0, 3]
+    """
+
+    file = open('lsats-codified/answer_sheet.txt', 'r', encoding = 'utf8')
+    answer_ind = []
+
+    line = file.readline()[:-1]
+    section = 1
+
+    while(section!=5):
+
+        if(line=='.'):
+            section+=1
+        else:
+            answer_ind.append(0 if line == 'A' else 1 if line == 'B' else 2 if line == 'C' else 3 if line == 'D' else 4)
+        line = file.readline()[:-1]
+
+    file.close()
+
+    return answer_ind
+
+def read_conditions():
+    """
+    Returns: list of Condition objects
+    """
+
+    file = open('lsats-codified/conditions.txt','r',encoding = 'utf8')
+    conditions = []
+
+    line = file.readline()[:-1]
+    content_lines = []
+    content = ''
+    prompt_id = 0
+
+    while(True):
+
+        if(line=='.'):
+            break
+
+        if(line=='-'):
+            prompt_id += 1
+            line = file.readline()
+        elif(line==''):
+            content = single_line(content_lines)
+            conditions.append(Condition(prompt_id, content))
+            content_lines = []
+        else:
+            content_lines.append(line)
+
+        line = file.readline()[:-1]
+
+    file.close()
+    return conditions
+
+#----------------------------------------------------------------------------------------------------------
+#--------------------------------------OBJECT MAPPING FUNCTIONS--------------------------------------------
+#----------------------------------------------------------------------------------------------------------
+
+def map_qs_as(questions, answers):
+    """
+    Description: Ties list of 5 answers to their appropriate question counterpart, and flags
+    the correct answer by referencing the answer sheet.
+    
+    Parameters: List of Question objs, List of Answer objs
+    """
+    
+    answer_sheet = read_answer_sheet()
+
+    for question, ans_ind in zip(questions, answer_sheet):
+        question.set_answers(answers[question.get_id()*5:question.get_id()*5 + 5])
+        question.set_correct(ans_ind)
+        
+
+def map_ps_qs(prompts, questions):
+    """
+    Description: Ties list of questions to their appropriate prompt counterpart.
+    
+    Parameters: List of Prompt objs, List of Question objs
+    """
+
+    for prompt in prompts:
+        prompt.set_questions([])
+
+    for question in questions:
+        prompts[question.get_prompt_id()].append_questions(question)
+        
+def map_ps_cs(prompts, conditions):
+    """
+    Description: Ties list of conditions to their appropriate prompt counterpart.
+    
+    Parameters: List of Prompt objs, List of Condition objs
+    """
+    for prompt in prompts:
+        prompt.set_conditions([])
+
+    for condition in conditions:
+        prompts[condition.get_prompt_id()].append_conditions(condition)
+
+#--------------------------------------------------------------------------------------------------------
+#----------------------------------------FORMATTING FUNCTIONS--------------------------------------------
+#--------------------------------------------------------------------------------------------------------
+        
 def single_line(lines):
+    """
+    Description: Takes a list of lines (former paragraph) and converts to single very long line.
+    
+    Parameters: lines, type: list of strings
+    Returns: single_line, type: string
+    """
     
     single_line = ''
     
@@ -149,187 +294,21 @@ def single_line(lines):
         
     return single_line[:-1]
 
-
-    
-
-
-
-
-
-
-    
-    
-
-def ins_stmnt(table, columns, values):
-    str_columns = ''
-    for item in columns:
-        str_columns += item + ', '
-    str_columns = str_columns[0:-2]
-    return f"INSERT INTO {table} ({str_columns}) VALUES ({str(values)[1:-1]});"
-
-def test_table():
-    #Status: Finished!
-    title = 'tests'
-    columns = ['exam_date']
-    print()
-    values = ' TO_DATE(\'' + input('Exam date (MM/DD/YYYY): ') + '\', \'MM/DD/YYYY\') '
-
-    return [ins_stmnt(title, columns, values)]
-
-def scores_table(test_id, section_totals):
-    #Status: Finished!
-    title = 'scores'
-    columns = ['test_id', 'raw_score', 'lsat_score']
-    values = []
-    statements = []
-    
-    total_points = sum(section_totals)
-    
-    for i in range(total_points+1):
-        values.append(test_id)
-        values.append(i)
-        values.append(150)#int(input(f'score for raw score of {i}: ')))
-        statements.append(ins_stmnt(title, columns, values))
-        values = []
-
-    return statements
-
-def sections_table(test_id):
-    #Status: Finished!
-    title = 'sections'
-    columns = ['section_id', 'test_id', 'type_id', 'total_questions']
-    values = []
-
-    section_totals = []
-    statements = []
-    
-    print()
-    for i in range(4):
-        values.append(i+1 + (test_id-1)*4)
-        values.append(test_id)
-        values.append(i+1)
-        section_totals.append(int(input(f'number of questions in Section {i+1}: ' )))
-        values.append(section_totals[i])
-        statements.append(ins_stmnt(title, columns, values))
-        values = []
-
-    return section_totals, statements
-        
-
-def prompts_table(section_totals):
-    #Status: Finished!
-    title = 'prompts'
-    columns = ['prompt_id', 'type_id', 'content']
-    values = []
-    statements = []
-    sects = [i for i in section_totals]
-    
-    print()
-    sects[0] = int(input('# of prompts in section 1: '))
-    sects[3] = int(input('# of stories in section 4: '))
-    starting = int(input('next id for prompts: '))
-
-    for i in range(starting, sum(sects)+1):
-        values.append(i)
-        type_id = 1 if i-starting+1 >= sects[0] else 2 if i-starting+1 >= sects[1] else 3 if i-starting+1 >= sects[2] else 4
-        values.append(type_id)
-        values.append('')
-        statements.append(ins_stmnt(title, columns, values))
-        values = []
-
-    return statements, sects, starting
-
-def conditions_table(sect1_prompts, starting_id):
-    #Status: Finished!
-    title = 'conditions'
-    columns = ['prompt_id', 'content']
-    values = []
-    statements = []
-
-    for i in range(sect1_prompts):
-        n = int(input(f'# conditions in prompt {i+1}: '))
-        for j in range(n):
-            values.append(i+starting_id)
-            values.append('')
-            statements.append(ins_stmnt(title, columns, values))
-            values = []
-
-    return statements
-
-def questions_table(section_totals, sect_prompts, pstart):
-    #Status: Finished!
-    title = 'questions'
-    columns = ['question_id', 'prompt_id', 'content']
-    values = []
-    statements = []
-    print()
-    initial_qstart = int(input('starting id for questions: '))
-    qstart = initial_qstart
-
-    for i in range(sect_prompts[0]):
-        per_p = int(input(f'How many questions are in Prompt {i+1} of Section 1: '))
-        for j in range(per_p):
-            values.append(j+qstart)
-            values.append(i+pstart)
-            values.append('')
-            statements.append(ins_stmnt(title, columns, values))
-            values = []
-        qstart += per_p
-    pstart += sect_prompts[0]
-            
-    for i in range(sect_prompts[1] + sect_prompts[2]):
-        values.append(i+qstart)
-        values.append(i+pstart)
-        values.append('')
-        statements.append(ins_stmnt(title, columns, values))
-        values = []
-    pstart += sect_prompts[1] + sect_prompts[2]
-    qstart += sect_prompts[1] + sect_prompts[2]
-    
-    for i in range(sect_prompts[3]):
-        per_p = int(input(f'How many questions are in Story {i+1} of Section 4: '))
-        for j in range(per_p):
-            values.append(j+qstart)
-            values.append(i+pstart)
-            values.append('')
-            statements.append(ins_stmnt(title, columns, values))
-            values = []
-        qstart += per_p
-            
-    return statements, initial_qstart
-    
-    
-
-def answers_table(section_totals, qstart):
-    #Status: Finished!
-    title = 'answers'
-    columns = ['question_id', 'content', 'is_correct']
-    values = []
-    statements = []
-
-    total = (section_totals[0] + section_totals[1] + section_totals[2] + section_totals[3])
-
-    for i in range(total):
-        for j in range(5):
-            values.append(i+qstart)
-            values.append('')
-            values.append('FALSE')
-            statements.append(ins_stmnt(title, columns, values))
-            values = []
-        statements.append('')
-
-    return statements
-
 def print_statements(statements):
-    print()
+    """
+    Description: Outputs Insert statements in a nice format.
+    
+    Parameters: statements, type: list of list of strings (ins statements)
+    """
+    
+    for i in range(6):
+        print()
+
+    print('BEGIN TRANSACTION;')
     print()
     for table in statements:
         for statement in table:
             print(statement)
         print()
         print()
-
-def info_dump(filePath):
-
-
-    print()
+    print('COMMIT TRANSACTION;')
