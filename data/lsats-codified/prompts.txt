@@ -2,7 +2,7 @@ A company employee generates a series of five-digit product
 codes in accordance with the following rules:
 
 Exactly three films—Greed, Harvest, and Limelight—are
-shown during a film club’s festival held on Thursday, Friday,
+shown during a film club's festival held on Thursday, Friday,
 and Saturday. Each film is shown at least once during the
 festival but never more than once on a given day. On each day
 at least one film is shown. Films are shown one at a time. The
@@ -14,7 +14,7 @@ first seven weeks of the season: weeks 1 through 7. Each
 voyage will be to exactly one of four destinations:
 Guadeloupe, Jamaica, Martinique, or Trinidad. Each
 destination will be scheduled for at least one of the weeks. The
-following conditions apply to Freedom’s schedule:
+following conditions apply to Freedom's schedule:
 
 There are exactly three recycling centers in Rivertown:
 Center 1, Center 2, and Center 3. Exactly five kinds of
@@ -35,29 +35,29 @@ decrease the number of employees, which clearly
 harms the dismissed employees as well as the
 
 All Labrador retrievers bark a great deal. All Saint
-Bernards bark infrequently. Each of Rosa’s dogs is a
+Bernards bark infrequently. Each of Rosa's dogs is a
 cross between a Labrador retriever and a Saint Bernard.
-Therefore, Rosa’s dogs are moderate barkers.
+Therefore, Rosa's dogs are moderate barkers.
 
 A century in certain ways is like a life, and as the end
 of a century approaches, people behave toward that
 century much as someone who is nearing the end of
 life does toward that life. So just as people in their last
 years spend much time looking back on the events of
-their life, people at a century’s end _______.
+their life, people at a century's end _______.
 
 Consumer: The latest Connorly Report suggests that
 Ocksenfrey prepackaged meals are virtually
 devoid of nutritional value. But the Connorly
 Report is commissioned by Danto Foods,
-Ocksenfrey’s largest corporate rival, and early
+Ocksenfrey's largest corporate rival, and early
 drafts of the report are submitted for approval to
-Danto Foods’ public relations department.
+Danto Foods' public relations department.
 Because of the obvious bias of this report, it is
-clear that Ocksenfrey’s prepackaged meals really
+clear that Ocksenfrey's prepackaged meals really
 are nutritious.
 
-Scientist: Earth’s average annual temperature has
+Scientist: Earth's average annual temperature has
 increased by about 0.5 degrees Celsius over the
 last century. This warming is primarily the result
 of the buildup of minor gases in the atmosphere,
@@ -67,8 +67,8 @@ planet.
 An undergraduate degree is necessary for appointment
 to the executive board. Further, no one with a felony
 conviction can be appointed to the board. Thus,
-Murray, an accountant with both a bachelor’s and a
-master’s degree, cannot be accepted for the position of
+Murray, an accountant with both a bachelor's and a
+master's degree, cannot be accepted for the position of
 Executive Administrator, since he has a felony
 conviction.
 
@@ -146,7 +146,7 @@ accomplished by the annual vaccination of high-risk
 individuals: everyone 65 and older as well as anyone
 with a chronic disease that might cause them to
 experience complications from the influenza virus.
-Each year’s vaccination will protect only against the
+Each year's vaccination will protect only against the
 strain of the influenza virus deemed most likely to be
 prevalent that year, so every year it will be necessary
 for all high-risk individuals to receive a vaccine for a
@@ -171,7 +171,7 @@ maintained that the most significant threat faced
 by large institutions such as universities and
 hospitals is unauthorized access to confidential
 data. In light of this testimony, we should make
-the protection of our clients’ confidentiality our
+the protection of our clients' confidentiality our
 highest priority.
 
 Modern science is built on the process of posing
@@ -188,14 +188,14 @@ few find evidence that global warming is unlikely.
 Historian: The Land Party achieved its only national
 victory in Banestria in 1935. It received most of
 its support that year in rural and semirural areas,
-where the bulk of Banestria’s population lived at
+where the bulk of Banestria's population lived at
 the time. The economic woes of the years
 surrounding that election hit agricultural and
 small business interests the hardest, and the Land
 Party specifically targeted those groups in 1935. I
 conclude that the success of the Land Party that
 year was due to the combination of the Land
-Party’s specifically addressing the concerns of
+Party's specifically addressing the concerns of
 these groups and the depth of the economic
 problems people in these groups were facing.
 
@@ -207,9 +207,9 @@ resolution opposing the new water system, but
 only 25 of 350 members voted, with 10 in favor
 of the system. Furthermore, the 15 opposing
 votes represent far less than 1 percent of
-Hopeville’s population. One should not assume
+Hopeville's population. One should not assume
 that so few votes represent the view of the
-majority of Hopeville’s residents.
+majority of Hopeville's residents.
 
 Driver: My friends say I will one day have an accident
 because I drive my sports car recklessly. But I
@@ -242,7 +242,7 @@ human factors as whether a seat is comfortable or
 whether a set of controls is easy to use. However,
 designer interaction with consumers is superior to
 survey data; the data may tell the designer why a
-feature on last year’s model was given a low rating,
+feature on last year's model was given a low rating,
 but data will not explain how that feature needs to be
 changed in order to receive a higher rating.
 
@@ -266,24 +266,24 @@ appearances.
 
 After replacing his old gas water heater with a new,
 pilotless, gas water heater that is rated as highly
-efficient, Jimmy’s gas bills increased.
+efficient, Jimmy's gas bills increased.
 
 Carolyn: The artist Marc Quinn has displayed, behind a
 glass plate, biologically replicated fragments of
-Sir John Sulston’s DNA, calling it a “conceptual
+Sir John Sulston's DNA, calling it a “conceptual
 portrait” of Sulston. But to be a portrait, something
 must bear a recognizable resemblance to its
 subject.
-Arnold: I disagree. Quinn’s conceptual portrait is a
+Arnold: I disagree. Quinn's conceptual portrait is a
 maximally realistic portrait, for it holds actual
 instructions according to which Sulston was
 created.
 
 Many corporations have begun decorating their halls
 with motivational posters in hopes of boosting their
-employees’ motivation to work productively. However,
+employees' motivation to work productively. However,
 almost all employees at these corporations are already
-motivated to work productively. So these corporations’
+motivated to work productively. So these corporations'
 use of motivational posters is unlikely to achieve its
 intended purpose.
 
@@ -291,7 +291,7 @@ Atrens: An early entomologist observed ants carrying
 particles to neighboring ant colonies and inferred
 that the ants were bringing food to their
 neighbors. Further research, however, revealed
-that the ants were emptying their own colony’s
+that the ants were emptying their own colony's
 dumping site. Thus, the early entomologist was
 wrong.
 
@@ -301,7 +301,7 @@ five years. She found the statistics on car accidents to be
 disturbing, and she wanted to do something to
 encourage better driving in young drivers. Some
 members of the community have shown their support for
-this action by purchasing cars from Jablonski’s
+this action by purchasing cars from Jablonski's
 dealership.
 
 Antonio: One can live a life of moderation by never
@@ -313,7 +313,7 @@ go too far.
 Marla: But one who, in the interests of moderation,
 never risks going too far is actually failing to live
 a life of moderation: one must be moderate even
-in one’s moderation.
+in one's moderation.
 
 Advertisement: Fabric-Soft leaves clothes soft and
 fluffy, and its fresh scent is a delight. We
@@ -326,9 +326,9 @@ Fabric-Soft is the most effective fabric softener
 available.
 
 Naturalist: The recent claims that the Tasmanian tiger is
-not extinct are false. The Tasmanian tiger’s
+not extinct are false. The Tasmanian tiger's
 natural habitat was taken over by sheep farming
-decades ago, resulting in the animal’s systematic
+decades ago, resulting in the animal's systematic
 elimination from the area. Since then naturalists
 working in the region have discovered no hard
 evidence of its survival, such as carcasses or
@@ -347,7 +347,7 @@ Feathers recently taken from seabirds stuffed and
 preserved in the 1880s have been found to contain only
 half as much mercury as feathers recently taken from
 living birds of the same species. Since mercury that
-accumulates in a seabird’s feathers as the feathers grow
+accumulates in a seabird's feathers as the feathers grow
 is derived from fish eaten by the bird, these results
 indicate that mercury levels in saltwater fish are higher
 now than they were 100 years ago.
@@ -362,13 +362,13 @@ from very similar backgrounds and have led similar
 lives.
 
 Therapist: Cognitive psychotherapy focuses on
-changing a patient’s conscious beliefs. Thus,
+changing a patient's conscious beliefs. Thus,
 cognitive psychotherapy is likely to be more
 effective at helping patients overcome
 psychological problems than are forms of
 psychotherapy that focus on changing
 unconscious beliefs and desires, since only
-conscious beliefs are under the patient’s direct
+conscious beliefs are under the patient's direct
 conscious control.
 
 Commentator: In academic scholarship, sources are
@@ -388,7 +388,7 @@ central to the mission of universities, universities
 should use only open-source software.
 
 A consumer magazine surveyed people who had sought
-a psychologist’s help with a personal problem. Of those
+a psychologist's help with a personal problem. Of those
 responding who had received treatment for 6 months or
 less, 20 percent claimed that treatment “made things a
 lot better.” Of those responding who had received longer
@@ -407,7 +407,7 @@ nothing else could prompt people to make the
 sacrifices national citizenship demands.
 Obviously, then, a nation _______.
 
-When exercising the muscles in one’s back, it is
+When exercising the muscles in one's back, it is
 important, in order to maintain a healthy back, to
 exercise the muscles on opposite sides of the spine
 equally. After all, balanced muscle development is
@@ -418,16 +418,16 @@ alignment and protect the spine.
 
 Editorialist: In all cultures, it is almost universally
 accepted that one has a moral duty to prevent
-members of one’s family from being harmed.
+members of one's family from being harmed.
 Thus, few would deny that if a person is known
-by the person’s parents to be falsely accused of a
+by the person's parents to be falsely accused of a
 crime, it would be morally right for the parents to
 hide the accused from the police. Hence, it is also
 likely to be widely accepted that it is sometimes
 morally right to obstruct the police in their work.
 
 Editor: Many candidates say that if elected they will
-reduce governmental intrusion into voters’ lives.
+reduce governmental intrusion into voters' lives.
 But voters actually elect politicians who instead
 promise that the government will provide
 assistance to solve their most pressing problems.
@@ -461,13 +461,13 @@ increase, the Coffee Shoppe will have to increase its
 prices. In that case, either the Coffee Shoppe will begin
 selling noncoffee products or its coffee sales will
 decrease. But selling noncoffee products will decrease
-the Coffee Shoppe’s overall profitability. Moreover, the
+the Coffee Shoppe's overall profitability. Moreover, the
 Coffee Shoppe can avoid a decrease in overall
 profitability only if its coffee sales do not decrease.
 
-Political candidates’ speeches are loaded with promises
+Political candidates' speeches are loaded with promises
 and with expressions of good intention, but one must
-not forget that the politicians’ purpose in giving these
+not forget that the politicians' purpose in giving these
 speeches is to get themselves elected. Clearly, then,
 these speeches are selfishly motivated and the promises
 made in them are unreliable.
@@ -486,7 +486,7 @@ environments. However, there is considerable evidence
 that Australopithecus afarensis, a prehistoric species
 related to early humans, also thrived in a diverse array
 of environments, but became extinct. Hence, the
-anthropologists’ claim is false.
+anthropologists' claim is false.
 
 .
 
@@ -626,7 +626,7 @@ however, claim that if their ability to access
 information on Web pages is reduced, the Web cannot
 live up to its potential as an open, interactive medium
 of communication.
-The debate arises from the Web’s ability to link
+The debate arises from the Web's ability to link
 one document to another. Links between sites are
 analogous to the inclusion in a printed text of
 references to other works, but with one difference: the
@@ -638,19 +638,19 @@ unauthorized copies of their material even if that
 distributor did not personally make the copies. If
 person A, the author of a document, puts the document
 on a Web page, and person B, the creator of another
-Web page, creates a link to A’s document, is B
+Web page, creates a link to A's document, is B
 committing copyright infringement?
 To answer this question, it must first be
 determined who controls distribution of a document on
 the Web. When A places a document on a Web page,
 this is comparable to recording an outgoing message
-on one’s telephone answering machine for others to
-hear. When B creates a link to A’s document, this is
-akin to B’s giving out A’s telephone number, thereby
+on one's telephone answering machine for others to
+hear. When B creates a link to A's document, this is
+akin to B's giving out A's telephone number, thereby
 allowing third parties to hear the outgoing message for
 themselves. Anyone who calls can listen to the
-message; that is its purpose. While B’s link may
-indeed facilitate access to A’s document, the crucial
+message; that is its purpose. While B's link may
+indeed facilitate access to A's document, the crucial
 point is that A, simply by placing that document on the
 Web, is thereby offering it for distribution. Therefore,
 even if B leads others to the document, it is A who
@@ -659,7 +659,7 @@ document is not the same as making or distributing a
 copy of that document. Moreover, techniques are
 already available by which A can restrict access to a
 document. For example, A may require a password to
-gain entry to A’s Web page, just as a telephone owner
+gain entry to A's Web page, just as a telephone owner
 can request an unlisted number and disclose it only to
 selected parties. Such a solution would compromise
 the openness of the Web somewhat, but not as much as
@@ -727,3 +727,11 @@ various native weeds, including goosegrass. If madder
 pollen were present in a deposit it would be
 indistinguishable from that of uncultivated native
 species.
+
+.
+
+.
+
+.
+
+.

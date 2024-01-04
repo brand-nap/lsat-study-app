@@ -624,137 +624,109 @@ improve.
 Research might reveal that 61 percent of the
 information taken in during a conversation is
 communicated through nonverbal signals.
-
-It is possible to determine whether 61 percent of
+(B) It is possible to determine whether 61 percent of
 the information taken in during a conversation
 is communicated through nonverbal signals.
-
-The study of verbal and nonverbal
+(C) The study of verbal and nonverbal
 communication is an area where one cannot
 expect great precision in one’s research results.
-
-Some sciences can yield mathematically precise
+(D) Some sciences can yield mathematically precise
 results that are not inherently suspect.
-
-If inherently suspect claims are usually false,
+(E) If inherently suspect claims are usually false,
 then the majority of claims made by scientists
 are false as well.
 
 The argument confuses the causes of a problem
 with the appropriate solutions to that problem.
-
-The argument relies on the testimony of experts
+(B) The argument relies on the testimony of experts
 whose expertise is not shown to be sufficiently
 broad to support their general claim.
-
-The argument assumes that a correlation
+(C) The argument assumes that a correlation
 between two phenomena is evidence that one is
 the cause of the other.
-
-The argument draws a general conclusion about
+(D) The argument draws a general conclusion about
 a group based on data about an
 unrepresentative sample of that group.
-
-The argument infers that a property belonging to
+(E) The argument infers that a property belonging to
 large institutions belongs to all institutions.
 
  Most scientists who are reluctant to accept the
 global warming hypothesis are not acting in
 accordance with the accepted standards of
 scientific debate.
-
-Most researchers in climatology have substantial
+(B) Most researchers in climatology have substantial
 motive to find evidence that would discredit
 the global warming hypothesis.
-
-There is evidence that conclusively shows that
+(C) There is evidence that conclusively shows that
 the global warming hypothesis is true.
-
-Scientists who are skeptical about global
+(D) Scientists who are skeptical about global
 warming have not offered any alternative
 hypotheses to explain climatological data.
-
-Research in global warming is primarily driven
+(E) Research in global warming is primarily driven
 by a desire for recognition in the scientific
 community
 
 In preceding elections the Land Party made no
 attempt to address the interests of economically
 distressed urban groups.
-
-Voters are more likely to vote for a political
+(B) Voters are more likely to vote for a political
 party that focuses on their problems.
-
-The Land Party had most of its successes when there
+(C) The Land Party had most of its successes when there
 was economic distress in the agricultural sector.
-
-No other major party in Banestria specifically
+(D) No other major party in Banestria specifically
 addressed the issues of people who lived in
 semirural areas in 1935.
-
-The greater the degree of economic distress
+(E) The greater the degree of economic distress
 someone is in, the more likely that person is
 to vote.
 
 questioning a conclusion based on the results of
 a vote, on the grounds that people with certain
 views are more likely to vote
-
-questioning a claim supported by statistical data
+(B) questioning a claim supported by statistical data
 by arguing that statistical data can be
 manipulated to support whatever view the
 interpreter wants to support
-
-attempting to refute an argument by showing
+(C) attempting to refute an argument by showing
 that, contrary to what has been claimed, the
 truth of the premises does not guarantee the
 truth of the conclusion
-
-criticizing a view on the grounds that the view
+(D) criticizing a view on the grounds that the view
 is based on evidence that is in principle
 impossible to disconfirm
-
-attempting to cast doubt on a conclusion by
+(E) attempting to cast doubt on a conclusion by
 claiming that the statistical sample on which
 the conclusion is based is too small to be
 dependable
 
 infers a cause from a mere correlation
-
-relies on a sample that is too narrow
-
-misinterprets evidence that a result is likely as
+(B) relies on a sample that is too narrow
+(C) misinterprets evidence that a result is likely as
 evidence that the result is certain
-
-mistakes a condition sufficient for bringing
+(D) mistakes a condition sufficient for bringing
 about a result for a condition necessary for
 doing so
-
-relies on a source that is probably not
+(E) relies on a source that is probably not
 well-informed
 
 Particular acts of resident participation would be
 likely to elicit a positive response from local
 politicians if those politicians were less isolated
 from their electorate.
-
-Local political business should be conducted
+(B) Local political business should be conducted
 less secretively because this would avoid
 discouraging resident participation in local
 politics.
-
-The most important factor influencing a
+(C) The most important factor influencing a
 resident’s decision as to whether to participate
 in local politics is the chance that the
 participation will elicit a positive official
 response.
-
-More-frequent thorough coverage of local
+(D) More-frequent thorough coverage of local
 politics would reduce at least one source of
 discouragement from resident participation in
 local politics.
-
-If resident participation in local politics were
+(E) If resident participation in local politics were
 not discouraged, this would cause local
 politicians to be less isolated from their
 electorate
@@ -762,55 +734,43 @@ electorate
 Only wrong actions would be reasonably
 expected to reduce the aggregate well-being of
 the people affected by them.
-
-No action is both right and wrong.
-
-Any action that is not morally wrong is morally
+(B) No action is both right and wrong.
+(C) Any action that is not morally wrong is morally
 right.
-
-There are actions that would be reasonably
+(D) There are actions that would be reasonably
 expected to leave unchanged the aggregate
 well-being of the people affected by them.
-
-Only right actions have good consequences.
+(E) Only right actions have good consequences.
 
 Getting consumer input for design modifications
 can contribute to successful product design.
-
-Car companies traditionally conduct extensive
+(B) Car companies traditionally conduct extensive
 postmarket surveys.
-
-Designers aim to create features that will appeal
+(C) Designers aim to create features that will appeal
 to specific market niches.
-
-A car will have unappealing features if
+(D) A car will have unappealing features if
 consumers are not consulted during its design
 stage.
-
-Consumer input affects external rather than
+(E) Consumer input affects external rather than
 internal design components of cars.
 
 In France in the nineteenth century, the French
 academy gave more of its financial support to
 painting than it did to sculpture.
-
-The French academy in the nineteenth century
+(B) The French academy in the nineteenth century
 financially supported a greater number of
 sculptors than painters, but individual painters
 received more support, on average, than
 individual sculptors.
-
-Because stone was so much more expensive
+(C) Because stone was so much more expensive
 than paint and canvas, far more unsponsored
 paintings were produced than were
 unsponsored sculptures in France during the
 nineteenth century.
-
-Very few of the artists in France in the
+(D) Very few of the artists in France in the
 nineteenth century who produced sculptures
 also produced paintings.
-
-Although the academy was the primary sponsor
+(E) Although the academy was the primary sponsor
 of sculpture and painting, the total amount of
 financial support that French sculptors and
 painters received from sponsors declined
@@ -821,23 +781,19 @@ during the nineteenth century.
 A person buys an automobile to commute to
 work even though public transportation is
 quick and reliable.
-
-A parent buys a car seat for a young child
+(B) A parent buys a car seat for a young child
 because it is more colorful and more
 comfortable for the child than the other car
 seats on the market, though no safer.
-
-A couple buys a particular wine even though
+(C) A couple buys a particular wine even though
 their favorite wine is less expensive and better
 tasting because they think it will impress their
 dinner guests.
-
-A person sets her thermostat at a low
+(D) A person sets her thermostat at a low
 temperature during the winter because she is
 concerned about the environmental damage
 caused by using fossil fuels to heat her home.
-
-An acrobat convinces the circus that employs
+(E) An acrobat convinces the circus that employs
 him to purchase an expensive outfit for him so
 that he can wear it during his act to impress
 the audience.
@@ -845,173 +801,133 @@ the audience.
 The new water heater uses a smaller percentage
 of the gas used by Jimmy’s household than did
 the old one.
-
-Shortly after the new water heater was installed,
+(B) Shortly after the new water heater was installed,
 Jimmy’s uncle came to live with him, doubling
 the size of the household.
-
-After having done his laundry at a laundromat,
+(C) After having done his laundry at a laundromat,
 Jimmy bought and started using a gas dryer
 when he replaced his water heater.
-
-Jimmy’s utility company raised the rates for gas
+(D) Jimmy’s utility company raised the rates for gas
 consumption following installation of the new
 water heater.
-
-Unusually cold weather following installation of
+(E) Unusually cold weather following installation of
 the new water heater resulted in heavy gas
 usage
 
 should be considered to be art
-
-should be considered to be Quinn’s work
-
-bears a recognizable resemblance to Sulston
-
-contains instructions according to which Sulston
+(B) should be considered to be Quinn’s work
+(C) bears a recognizable resemblance to Sulston
+(D) contains instructions according to which Sulston
 was created
-
-is actually a portrait of Sulston
+(E) is actually a portrait of Sulston
 
 fails to consider whether corporations that do
 not currently use motivational posters would
 increase their employees’ motivation to work
 productively if they began using the posters
-
-takes for granted that, with respect to their
+(B) takes for granted that, with respect to their
 employees’ motivation to work productively,
 corporations that decorate their halls with
 motivational posters are representative of
 corporations in general
-
-fails to consider that even if motivational
+(C) fails to consider that even if motivational
 posters do not have one particular beneficial
 effect for corporations, they may have similar
 effects that are equally beneficial
-
-does not adequately address the possibility that
+(D) does not adequately address the possibility that
 employee productivity is strongly affected by
 factors other than employees’ motivation to
 work productively
-
-fails to consider that even if employees are
+(E) fails to consider that even if employees are
 already motivated to work productively,
 motivational posters may increase that
 motivation
 
 Ant societies do not interact in all the same
 ways that human societies interact.
-
-There is only weak evidence for the view that
+(B) There is only weak evidence for the view that
 ants have the capacity to make use of objects
 as gifts.
-
-Ant dumping sites do not contain particles that
+(C) Ant dumping sites do not contain particles that
 could be used as food.
-
-The ants to whom the particles were brought
+(D) The ants to whom the particles were brought
 never carried the particles into their own
 colonies.
-
-The entomologist cited retracted his conclusion
+(E) The entomologist cited retracted his conclusion
 when it was determined that the particles the
 ants carried came from their dumping site.
 
 The only way to reduce traffic accidents is
 through driver education programs.
-
-Altruistic actions sometimes have positive
+(B) Altruistic actions sometimes have positive
 consequences for those who perform them.
-
-Young drivers are the group most likely to
+(C) Young drivers are the group most likely to
 benefit from driver education programs.
-
-It is usually in one’s best interest to perform
+(D) It is usually in one’s best interest to perform
 actions that benefit others.
-
-An action must have broad community support
+(E) An action must have broad community support
 if it is to be successful.
 
 whether it is desirable for people occasionally
 to take great chances in life
-
-what a life of moderation requires of a person
-
-whether it is possible for a person to embrace
+(B) what a life of moderation requires of a person
+(C) whether it is possible for a person to embrace
 other virtues along with moderation
-
-how often a person ought to deviate from the
+(D) how often a person ought to deviate from the
 middle course in life
-
-whether it is desirable for people to be
+(E) whether it is desirable for people to be
 moderately spontaneous
 
 any of the consumers tested are allergic to
 fabric softeners
-
-Fabric-Soft is more or less harmful to the
+(B) Fabric-Soft is more or less harmful to the
 environment than other fabric softeners
-
-Fabric-Soft is much cheaper or more expensive
+(C) Fabric-Soft is much cheaper or more expensive
 than other fabric softeners
-
-the consumers tested find the benefits of using
+(D) the consumers tested find the benefits of using
 fabric softeners worth the expense
-
-the consumers tested had the opportunity to
+(E) the consumers tested had the opportunity to
 evaluate fabric softeners other than Fabric-Soft
 
 Sheep farming drove the last Tasmanian tigers
 to starvation by chasing them from their
 natural habitat.
-
-Some scavengers in Tasmania are capable of
+(B) Some scavengers in Tasmania are capable of
 destroying tiger carcasses without a trace.
-
-Every naturalist working in the Tasmanian
+(C) Every naturalist working in the Tasmanian
 tiger’s natural habitat has looked systematically
 for evidence of the tiger’s survival.
-
-The Tasmanian tiger did not move and adapt to
+(D) The Tasmanian tiger did not move and adapt to
 a different region in response to the loss of
 habitat.
-
-Those who have reported sightings of the
+(E) Those who have reported sightings of the
 Tasmanian tiger are not experienced naturalists.
 
 use little if any written prose in their
 advertisements
-
-try to encourage people to develop positive
+(B) try to encourage people to develop positive
 attitudes about products that can be better
 represented pictorially than in prose
-
-place their advertisements on television rather
+(C) place their advertisements on television rather
 than in magazines
-
-highlight the desirable features of the advertised
+(D) highlight the desirable features of the advertised
 product by contrasting them pictorially with
 undesirable features of a competing product
-
-create advertisements containing pictures of
+(E) create advertisements containing pictures of
 things most members of the target audience
 like
 
 the proportion of a seabird’s diet consisting of
 fish was not as high, on average, in the 1880s
 as it is today
-
-the amount of mercury in a saltwater fish
+(B) the amount of mercury in a saltwater fish
 depends on the amount of pollution in the
 ocean habitat of the fish
-
-mercury derived from fish is essential for the
+(C) mercury derived from fish is essential for the
 normal growth of a seabird’s feathers
-
-the stuffed seabirds whose feathers were tested
+(D) the stuffed seabirds whose feathers were tested
 for mercury were not fully grown
-
-the process used to preserve birds in the 1880s
+(E) the process used to preserve birds in the 1880s
 did not substantially decrease the amount of
 mercury in the birds’ feathers
 
@@ -1019,24 +935,20 @@ Novel X and Novel Y are both
 semiautobiographical novels, and the two
 novels contain many very similar themes and
 situations.
-
-The fact that Novel X and Novel Y are both
+(B) The fact that Novel X and Novel Y are both
 semiautobiographical novels and contain many
 very similar themes and situations might lead
 one to suspect plagiarism on the part of one of
 the authors.
-
-The author of Novel X and the author of
+(C) The author of Novel X and the author of
 Novel Y are from very similar backgrounds
 and have led very similar lives.
-
-It is less likely that one of the authors of
+(D) It is less likely that one of the authors of
 Novel X or Novel Y is guilty of plagiarism
 than that the similarity of themes and
 situations in the two novels is merely
 coincidental.
-
-If the authors of Novel X and Novel Y are from
+(E) If the authors of Novel X and Novel Y are from
 very similar backgrounds and have led similar
 lives, suspicions that either of the authors
 plagiarized are very likely to be unwarranted.
@@ -1044,23 +956,19 @@ plagiarized are very likely to be unwarranted.
 Psychological problems are frequently caused
 by unconscious beliefs that could be changed
 with the aid of psychotherapy.
-
-It is difficult for any form of psychotherapy to
+(B) It is difficult for any form of psychotherapy to
 be effective without focusing on mental states
 that are under the patient’s direct conscious
 control.
-
-Cognitive psychotherapy is the only form of
+(C) Cognitive psychotherapy is the only form of
 psychotherapy that focuses primarily on
 changing the patient’s conscious beliefs.
-
-No form of psychotherapy that focuses on
+(D) No form of psychotherapy that focuses on
 changing the patient’s unconscious beliefs and
 desires can be effective unless it also helps
 change beliefs that are under the patient’s
 direct conscious control.
-
-All of a patient’s conscious beliefs are under the
+(E) All of a patient’s conscious beliefs are under the
 patient’s conscious control, but other
 psychological states cannot be controlled
 effectively without the aid of psychotherapy.
@@ -1069,116 +977,92 @@ Whatever software tools are most advanced and
 can achieve the goals of academic scholarship
 are the ones that should alone be used in
 universities.
-
-Universities should use the type of software
+(B) Universities should use the type of software
 technology that is least expensive, as long as
 that type of software technology is adequate
 for the purposes of academic scholarship.
-
-Universities should choose the type of software
+(C) Universities should choose the type of software
 technology that best matches the values
 embodied in the activities that are central to
 the mission of universities.
-
-The form of software technology that best
+(D) The form of software technology that best
 matches the values embodied in the activities
 that are central to the mission of universities is
 the form of software technology that is most
 efficient for universities to use.
-
-A university should not pursue any activity that
+(E) A university should not pursue any activity that
 would block the achievement of the goals of
 academic scholarship at that university.
 
 Of the respondents who had received treatment
 for longer than 6 months, 10 percent said that
 treatment made things worse.
-
-Patients who had received treatment for longer
+(B) Patients who had received treatment for longer
 than 6 months were more likely to respond to
 the survey than were those who had received
 treatment for a shorter time.
-
-Patients who feel they are doing well in
+(C) Patients who feel they are doing well in
 treatment tend to remain in treatment, while
 those who are doing poorly tend to quit earlier.
-
-Patients who were dissatisfied with their
+(D) Patients who were dissatisfied with their
 treatment were more likely to feel a need to
 express their feelings about it and thus to
 return the survey.
-
-Many psychologists encourage their patients to
+(E) Many psychologists encourage their patients to
 receive treatment for longer than 6 months.
 
 cannot continue to exist unless something other
 than the false belief that the nation has moral
 rights motivates its citizens to make sacrifices
-
-cannot survive unless many of its citizens have
+(B) cannot survive unless many of its citizens have
 some beliefs that are literally false
-
-can never be a target of moral praise or blame
-
-is not worth the sacrifices that its citizens make
+(C) can never be a target of moral praise or blame
+(D) is not worth the sacrifices that its citizens make
 on its behalf
-
-should always be thought of in metaphorical
+(E) should always be thought of in metaphorical
 rather than literal terms
 
 Muscles on opposite sides of the spine that are
 equally well developed will be enough to keep
 the back in proper alignment.
-
-Exercising the muscles on opposite sides of the
+(B) Exercising the muscles on opposite sides of the
 spine unequally tends to lead to unbalanced
 muscle development.
-
-Provided that one exercises the muscles on
+(C) Provided that one exercises the muscles on
 opposite sides of the spine equally, one will
 have a generally healthy back.
-
-If the muscles on opposite sides of the spine are
+(D) If the muscles on opposite sides of the spine are
 exercised unequally, one’s back will be
 irreparably damaged.
-
-One should exercise daily to ensure that the
+(E) One should exercise daily to ensure that the
 muscles on opposite sides of the spine keep
 the back in proper alignment.
 
 utilizes a single type of example for the purpose
 of justifying a broad generalization
-
-fails to consider the possibility that other moral
+(B) fails to consider the possibility that other moral
 principles would be widely recognized as
 overriding any obligation to protect a family
 member from harm
-
-presumes, without providing justification, that
+(C) presumes, without providing justification, that
 allowing the police to arrest an innocent
 person assists rather than obstructs justice
-
-takes for granted that there is no moral
+(D) takes for granted that there is no moral
 obligation to obey the law
-
-takes for granted that the parents mentioned in
+(E) takes for granted that the parents mentioned in
 the example are not mistaken about their
 child’s innocence
 
 Politicians who win their elections usually keep
 their campaign promises.
-
-Politicians never promise what they really
+(B) Politicians never promise what they really
 intend to do once in office.
-
-The most common problems people have are
+(C) The most common problems people have are
 financial problems.
-
-Governmental intrusion into the lives of voters
+(D) Governmental intrusion into the lives of voters
 is no more burdensome in nondemocratic
 countries than it is in democracies.
-
-Politicians who promise to do what they
+(E) Politicians who promise to do what they
 actually believe ought to be done are rarely
 elected.
 
@@ -1189,28 +1073,24 @@ recognized as such by all taxpayers, or even
 all critics. Nevertheless, our country ought to
 expend whatever money is needed to procure
 all such works as they become available.
-
-Documents of importance to local heritage
+(B) Documents of importance to local heritage
 should be properly preserved and archived for
 the sake of future generations. For, if even one
 of these documents is damaged or lost, the
 integrity of the historical record as a whole
 will be damaged.
-
-You should have your hair cut no more than
+(C) You should have your hair cut no more than
 once a month. After all, beauticians suggest
 that their customers have their hair cut twice a
 month, and they do this as a way of generating
 more business for themselves.
-
-The committee should endorse the plan to
+(D) The committee should endorse the plan to
 postpone construction of the new expressway.
 Many residents of the neighborhoods that
 would be affected are fervently opposed to that
 construction, and the committee is obligated to
 avoid alienating those residents.
-
-One should not borrow even small amounts of
+(E) One should not borrow even small amounts of
 money unless it is absolutely necessary. Once
 one borrows a few dollars, the interest starts to
 accumulate. The longer one takes to repay, the
@@ -1220,44 +1100,36 @@ small debt has become a large one.
 Even though it has been established that a
 vegetarian diet can be healthy, many people
 prefer to eat meat and are willing to pay for it.
-
-Often, cattle or sheep can be raised to maturity
+(B) Often, cattle or sheep can be raised to maturity
 on grass from pastureland that is unsuitable for
 any other kind of farming.
-
-If a grain diet is supplemented with protein
+(C) If a grain diet is supplemented with protein
 derived from non-animal sources, it can have
 nutritional value equivalent to that of a diet
 containing meat.
-
-Although prime farmland near metropolitan
+(D) Although prime farmland near metropolitan
 areas is being lost rapidly to suburban
 development, we could reverse this trend by
 choosing to live in areas that are already
 urban.
-
-Nutritionists agree that a diet composed solely
+(E) Nutritionists agree that a diet composed solely
 of grain products is not adequate for human
 health.
 
 If the Coffee Shoppe’s overall profitability
 decreases, the price it pays for coffee beans
 will have continued to increase.
-
-If the Coffee Shoppe’s overall profitability
+(B) If the Coffee Shoppe’s overall profitability
 decreases, either it will have begun selling
 noncoffee products or its coffee sales will have
 decreased.
-
-The Coffee Shoppe’s overall profitability will
+(C) The Coffee Shoppe’s overall profitability will
 decrease if the price it pays for coffee beans
 continues to increase.
-
-The price it pays for coffee beans cannot
+(D) The price it pays for coffee beans cannot
 decrease without the Coffee Shoppe’s overall
 profitability also decreasing.
-
-Either the price it pays for coffee beans will
+(E) Either the price it pays for coffee beans will
 continue to increase or the Coffee Shoppe’s
 coffee sales will increase.
 
@@ -1265,19 +1137,15 @@ The argument presumes, without providing
 justification, that if a person’s promise is not
 selfishly motivated then that promise is
 reliable.
-
-The argument presumes, without providing
+(B) The argument presumes, without providing
 justification, that promises made for selfish
 reasons are never kept.
-
-The argument confuses the effect of an action
+(C) The argument confuses the effect of an action
 with its cause.
-
-The argument overlooks the fact that a promise
+(D) The argument overlooks the fact that a promise
 need not be unreliable just because the person
 who made it had an ulterior motive for doing so.
-
-The argument overlooks the fact that a
+(E) The argument overlooks the fact that a
 candidate who makes promises for selfish
 reasons may nonetheless be worthy of the
 office for which he or she is running.
@@ -1285,42 +1153,34 @@ office for which he or she is running.
 People acting together in institutions can do
 more good or evil than can people acting
 individually.
-
-Institutions formed by people are inevitably
+(B) Institutions formed by people are inevitably
 imperfect.
-
-People should not be overly optimistic in their
+(C) People should not be overly optimistic in their
 view of individual human beings.
-
-A society’s institutions are the surest gauge of
+(D) A society’s institutions are the surest gauge of
 that society’s values.
-
-The whole does not determine the properties of
+(E) The whole does not determine the properties of
 the things that compose it.
 
 confuses a condition’s being required for a
 given result to occur in one case with the
 condition’s being sufficient for such a result to
 occur in a similar case
-
-takes for granted that if one species had a
+(B) takes for granted that if one species had a
 characteristic that happened to enable it to
 survive certain conditions, at least one related
 extinct species must have had the same
 characteristic
-
-generalizes, from the fact that one species with
+(C) generalizes, from the fact that one species with
 a certain characteristic survived certain
 conditions, that all related species with the
 same characteristic must have survived exactly
 the same conditions
-
-fails to consider the possibility that
+(D) fails to consider the possibility that
 Australopithecus afarensis had one or more
 characteristics that lessened its chances of
 surviving prehistoric times
-
-fails to consider the possibility that, even if a
+(E) fails to consider the possibility that, even if a
 condition caused a result to occur in one case,
 it was not necessary to cause the result to
 occur in a similar case
@@ -1330,23 +1190,19 @@ occur in a similar case
 Rita Dove’s work has been widely acclaimed
 primarily because of the lyrical elements she
 has introduced into her fiction.
-
-Rita Dove’s lyric narratives present clusters of
+(B) Rita Dove’s lyric narratives present clusters of
 narrative detail in order to create a cumulative
 narrative without requiring the reader to
 interpret it in a linear manner.
-
-Working against a bias that has long been
+(C) Working against a bias that has long been
 dominant in the U.S., recent writers like Rita
 Dove have shown that the lyrical use of
 language can effectively enhance narrative
 fiction.
-
-Unlike many of her U.S. contemporaries, Rita
+(D) Unlike many of her U.S. contemporaries, Rita
 Dove writes without relying on the traditional
 techniques associated with poetry and fiction.
-
-Rita Dove’s successful blending of poetry and
+(E) Rita Dove’s successful blending of poetry and
 fiction exemplifies the recent trend away from
 the rigid separation of the two genres that has
 long been prevalent in the U.S.
@@ -1354,218 +1210,166 @@ long been prevalent in the U.S.
 A chef combines nontraditional cooking
 methods and traditional ingredients from
 disparate world cuisines to devise new recipes.
-
-A professor of film studies becomes a film
+(B) A professor of film studies becomes a film
 director and succeeds, partly due to a wealth
 of theoretical knowledge of filmmaking.
-
-An actor who is also a theatrical director teams
+(C) An actor who is also a theatrical director teams
 up with a public health agency to use street
 theater to inform the public about health
 matters.
-
-A choreographer defies convention and
+(D) A choreographer defies convention and
 choreographs dances that combine elements of
 both ballet and jazz dance.
-
-A rock musician records several songs from
+(E) A rock musician records several songs from
 previous decades but introduces extended
 guitar solos into each one.
 
 poetry should not involve characters or
 narratives
-
-unlike the writing of poetry, the writing of
+(B) unlike the writing of poetry, the writing of
 fiction is rarely an academically serious
 endeavor
-
-graduate writing programs focus on poetry to
+(C) graduate writing programs focus on poetry to
 the exclusion of fiction
-
-fiction is most aesthetically effective when it
+(D) fiction is most aesthetically effective when it
 incorporates lyrical elements
-
-European literary cultures are suspicious of
+(E) European literary cultures are suspicious of
 generalists
 
 perplexity as to what could have led to the
 development of such a rift
-
-astonishment that academics have overlooked
+(B) astonishment that academics have overlooked
 the existence of the rift
-
-ambivalence toward the effect the rift has had
+(C) ambivalence toward the effect the rift has had
 on U.S. literature
-
-pessimism regarding the possibility that the rift
+(D) pessimism regarding the possibility that the rift
 can be overcome
-
-disapproval of attitudes and presuppositions
+(E) disapproval of attitudes and presuppositions
 underlying the rift
 
 poets and fiction writers each tend to see their
 craft as superior to the others’ craft
-
-the methods used in training graduate students
+(B) the methods used in training graduate students
 in poetry are different from those used in
 training graduate students in other literary
 fields
-
-publishers often pressure writers to concentrate
+(C) publishers often pressure writers to concentrate
 on what they do best
-
-a suspicion of generalism deters writers from
+(D) a suspicion of generalism deters writers from
 dividing their energies between the two genres
-
-fiction is more widely read and respected than
+(E) fiction is more widely read and respected than
 poetry
 
 suggest that the habit of treating poetry and
 fiction as nonoverlapping domains is
 characteristic of English-speaking societies but
 not others
-
-point to an experience that reinforced Dove’s
+(B) point to an experience that reinforced Dove’s
 conviction that poetry and fiction should not
 be rigidly separated
-
-indicate that Dove’s strengths as a writer derive
+(C) indicate that Dove’s strengths as a writer derive
 in large part from the international character of
 her academic background
-
-present an illuminating biographical detail about
+(D) present an illuminating biographical detail about
 Dove in an effort to enhance the human
 interest appeal of the passage
-
-indicate what Dove believes to be the origin of
+(E) indicate what Dove believes to be the origin of
 her opposition to the separation of fiction and
 poetry in the U.S.
 
 Each of Dove’s works can be classified as
 either primarily poetry or primarily fiction,
 even though it may contain elements of both.
-
-The aesthetic value of lyric narrative resides in
+(B) The aesthetic value of lyric narrative resides in
 its representation of a sequence of events,
 rather than in its ability to evoke inner states.
-
-The way in which Dove blends genres in her
+(C) The way in which Dove blends genres in her
 writing is without precedent in U.S. writing.
-
-Narrative that uses lyrical language is generally
+(D) Narrative that uses lyrical language is generally
 aesthetically superior to pure lyric poetry.
-
-Writers who successfully cross the generic
+(E) Writers who successfully cross the generic
 boundary between poetry and fiction often try
 their hand at genres such as drama as well.
 
 The number of writers who write both poetry
 and fiction will probably continue to grow.
-
-Because of the increased interest in mixed
+(B) Because of the increased interest in mixed
 genres, the small market for pure lyric poetry
 will likely shrink even further.
-
-Narrative poetry will probably come to be
+(C) Narrative poetry will probably come to be
 regarded as a sub-genre of fiction.
-
-There will probably be a rise in specialization
+(D) There will probably be a rise in specialization
 among writers in university writing programs.
-
-Writers who continue to work exclusively in
+(E) Writers who continue to work exclusively in
 poetry or fiction will likely lose their
 audiences.
 
 What evolutionary advantage did larger brain
 size confer on early hominids?
-
-Why do human mothers and infants engage in
+(B) Why do human mothers and infants engage in
 bonding behavior that is composed of musical
 elements?
-
-What are the evolutionary origins of the human
+(C) What are the evolutionary origins of the human
 ability to make music?
-
-Do the human abilities to make music and to
+(D) Do the human abilities to make music and to
 use language depend on the same neurological
 systems?
-
-Why are most people more adept at using
+(E) Why are most people more adept at using
 language than they are at making music?
 
 bonding between humans
-
-human emotion
-
-neurological research
-
-the increasing helplessness of hominid infants
-
-the use of tools to produce sounds
+(B) human emotion
+(C) neurological research
+(D) the increasing helplessness of hominid infants
+(E) the use of tools to produce sounds
 
 the increase in hominid brain size necessitated
 earlier births
-
-fewer differences than similarities exist between
+(B) fewer differences than similarities exist between
 the neurological processing of music and
 human language
-
-brain size increased rapidly over the course of
+(C) brain size increased rapidly over the course of
 human evolution
-
-the capacity to produce music has great
+(D) the capacity to produce music has great
 adaptive value to humans
-
-mother-infant bonding involves temporally
+(E) mother-infant bonding involves temporally
 patterned vocal interactions
 
 Does it manifest itself in some form in early
 infancy?
-
-Does it affect the strength of mother-infant
+(B) Does it affect the strength of mother-infant
 bonds?
-
-Is it at least partly a result of evolutionary
+(C) Is it at least partly a result of evolutionary
 increases in brain size?
-
-Did its evolution spur the development of new
+(D) Did its evolution spur the development of new
 neurological systems?
-
-Why does it vary so greatly among different
+(E) Why does it vary so greatly among different
 individuals?
 
 Investigations of the evolutionary origins of
 human behaviors must take into account the
 behavior of nonhuman animals.
-
-All human capacities can be explained in terms
+(B) All human capacities can be explained in terms
 of the evolutionary advantages they offer.
-
-The fact that a single neurological system
+(C) The fact that a single neurological system
 underlies two different capacities is evidence
 that those capacities evolved concurrently.
-
-The discovery of the neurological basis of a
+(D) The discovery of the neurological basis of a
 human behavior constitutes the discovery of
 the essence of that behavior.
-
-The behavior of modern-day humans can
+(E) The behavior of modern-day humans can
 provide legitimate evidence concerning the
 evolutionary origins of human abilities.
 
 Passage A and passage B use different evidence
 to draw divergent conclusions.
-
-Passage A poses the question that passage B
+(B) Passage A poses the question that passage B
 attempts to answer.
-
-Passage A proposes a hypothesis that passage B
+(C) Passage A proposes a hypothesis that passage B
 attempts to substantiate with new evidence.
-
-Passage A expresses a stronger commitment to
+(D) Passage A expresses a stronger commitment to
 its hypothesis than does passage B.
-
-Passage A and passage B use different evidence
+(E) Passage A and passage B use different evidence
 to support the same conclusion.
 
 Since distribution of a document placed on a
@@ -1573,26 +1377,22 @@ Web page is controlled by the author of that
 page rather than by the person who creates a
 link to the page, creating such a link should
 not be considered copyright infringement.
-
-Changes in copyright law in response to the
+(B) Changes in copyright law in response to the
 development of Web pages and links are
 ill-advised unless such changes amplify rather
 than restrict the free exchange of ideas
 necessary in a democracy.
-
-People who are concerned about the access
+(C) People who are concerned about the access
 others may have to the Web documents they
 create can easily prevent such access without
 inhibiting the rights of others to exchange
 ideas freely.
-
-Problems concerning intellectual property rights
+(D) Problems concerning intellectual property rights
 created by new forms of electronic media are
 not insuperably difficult to resolve if one
 applies basic commonsense principles to these
 problems.
-
-Maintaining a free exchange of ideas on the
+(E) Maintaining a free exchange of ideas on the
 Web offers benefits that far outweigh those
 that might be gained by a small number of
 individuals if a radical alteration of copyright
@@ -1600,34 +1400,26 @@ laws aimed at restricting the Web’s growth
 were allowed.
 
 made more restrictive
-
-made uniform worldwide
-
-made to impose harsher penalties
-
-dutifully enforced
-
-more fully recognized as legitimate
+(B) made uniform worldwide
+(C) made to impose harsher penalties
+(D) dutifully enforced
+(E) more fully recognized as legitimate
 
 Such documents cannot receive adequate
 protection unless current copyright laws are
 strengthened.
-
-Such documents cannot be protected from
+(B) Such documents cannot be protected from
 unauthorized distribution without significantly
 diminishing the potential of the Web to be a
 widely used form of communication.
-
-The nearly instantaneous access afforded by the
+(C) The nearly instantaneous access afforded by the
 Web makes it impossible in practice to limit
 access to such documents.
-
-Such documents can be protected from
+(D) Such documents can be protected from
 copyright infringement with the least damage
 to the public interest only by altering existing
 legal codes.
-
-Such documents cannot fully contribute to the
+(E) Such documents cannot fully contribute to the
 Web’s free exchange of ideas unless their
 authors allow them to be freely accessed by
 those who wish to do so.
@@ -1635,111 +1427,87 @@ those who wish to do so.
 allowing everyone use of a public facility and
 restricting its use to members of the
 community
-
-outlawing the use of a drug and outlawing its
+(B) outlawing the use of a drug and outlawing its
 sale
-
-prohibiting a sport and relying on participants to
+(C) prohibiting a sport and relying on participants to
 employ proper safety gear
-
-passing a new law and enforcing that law
-
-allowing unrestricted entry to a building and
+(D) passing a new law and enforcing that law
+(E) allowing unrestricted entry to a building and
 restricting entry to those who have been issued
 a badge
 
 There are no creators of links to Web pages
 who are also owners of intellectual property on
 Web pages.
-
-The person who controls access to a Web page
+(B) The person who controls access to a Web page
 document should be considered the distributor
 of that document.
-
-Rights of privacy should not be extended to
+(C) Rights of privacy should not be extended to
 owners of intellectual property placed on the
 Web.
-
-Those who create links to Web pages have
+(D) Those who create links to Web pages have
 primary control over who reads the documents
 on those pages.
-
-A document on a Web page must be converted
+(E) A document on a Web page must be converted
 to a physical document via printing before
 copyright infringement takes place.
 
 Such messages are carried by an electronic
 medium of communication.
-
-Such messages are not legally protected against
+(B) Such messages are not legally protected against
 unauthorized distribution.
-
-Transmission of such messages is virtually
+(C) Transmission of such messages is virtually
 instantaneous.
-
-People do not usually care whether or not
+(D) People do not usually care whether or not
 others might record such messages.
-
-Such messages have purposely been made
+(E) Such messages have purposely been made
 available to anyone who calls that telephone
 number.
 
 compare and contrast the legal problems created
 by two different sorts of electronic media
-
-provide an analogy to illustrate the positions
+(B) provide an analogy to illustrate the positions
 taken by each of the two sides in the copyright
 debate
-
-show that the legal problems produced by new
+(C) show that the legal problems produced by new
 communication technology are not themselves
 new
-
-illustrate the basic principle the author believes
+(D) illustrate the basic principle the author believes
 should help determine the outcome of the
 copyright debate
-
-show that telephone use also raises concerns
+(E) show that telephone use also raises concerns
 about copyright infringement
 
 allow completely unrestricted use of any
 document placed by its author on a Web page
-
-allow those who establish links to a document
+(B) allow those who establish links to a document
 on a Web page to control its distribution to
 others
-
-prohibit anyone but the author of a document
+(C) prohibit anyone but the author of a document
 from making a profit from the document’s
 distribution
-
-allow the author of a document to sue anyone
+(D) allow the author of a document to sue anyone
 who distributes the document without
 permission
-
-should be altered to allow more complete
+(E) should be altered to allow more complete
 freedom in the exchange of ideas
 
 Analysis of fossilized pollen is a useful means
 of supplementing and in some cases correcting
 other sources of information regarding changes
 in the Irish landscape.
-
-Analyses of historical documents, together with
+(B) Analyses of historical documents, together with
 pollen evidence, have led to the revision of
 some previously accepted hypotheses regarding
 changes in the Irish landscape.
-
-Analysis of fossilized pollen has proven to be a
+(C) Analysis of fossilized pollen has proven to be a
 valuable tool in the identification of ancient
 plant species.
-
-Analysis of fossilized pollen has provided new
+(D) Analysis of fossilized pollen has provided new
 evidence that the cultivation of such crops as
 cereal grains, flax, and madder had a
 significant impact on the landscape of Ireland.
-
-While pollen evidence can sometimes
+(E) While pollen evidence can sometimes
 supplement other sources of historical
 information, its applicability is severely
 limited, since it cannot be used to identify
@@ -1747,74 +1515,58 @@ plant species.
 
 The moldboard plough was introduced into
 Ireland in the seventh century.
-
-In certain parts of County Down, cereal grains
+(B) In certain parts of County Down, cereal grains
 were not cultivated to any significant extent
 before the seventh century.
-
-In certain parts of Ireland, cereal grains have
+(C) In certain parts of Ireland, cereal grains have
 been cultivated continuously since the
 introduction of the moldboard plough.
-
-Cereal grain cultivation requires successful
+(D) Cereal grain cultivation requires successful
 tilling of the soil.
-
-Cereal grain cultivation began in County Down
+(E) Cereal grain cultivation began in County Down
 around 400 A.D.
 
 documented results of analyses of fossilized
 pollen
-
-the kinds and quantities of fossilized pollen
+(B) the kinds and quantities of fossilized pollen
 grains preserved in peats and lake muds
-
-written and pictorial descriptions by current
+(C) written and pictorial descriptions by current
 historians of the events and landscapes of past
 centuries
-
-government and commercial records, maps, and
+(D) government and commercial records, maps, and
 similar documents produced in the past that
 recorded conditions and events of that time
-
-articles, books, and other documents by current
+(E) articles, books, and other documents by current
 historians listing and analyzing all the
 available evidence regarding a particular
 historical period
 
 The Irish landscape had experienced significant
 flooding during the seventeenth century.
-
-Cereal grain was not cultivated anywhere in
+(B) Cereal grain was not cultivated anywhere in
 Ireland until at least the seventh century.
-
-The history of the Irish landscape during the
+(C) The history of the Irish landscape during the
 sixteenth and seventeenth centuries was well
 documented.
-
-Madder was not used as a dye plant in Ireland
+(D) Madder was not used as a dye plant in Ireland
 until after the eighteenth century.
-
-The beginning of flax cultivation in County
+(E) The beginning of flax cultivation in County
 Down may well have occurred before the
 eighteenth century.
 
 The second paragraph proposes a hypothesis for
 which the final paragraph offers a supporting
 example.
-
-The final paragraph describes a problem that
+(B) The final paragraph describes a problem that
 must be solved before the method advocated in
 the second paragraph can be considered viable.
-
-The final paragraph qualifies the claim made in
+(C) The final paragraph qualifies the claim made in
 the second paragraph.
-
-The second paragraph describes a view against
+(D) The second paragraph describes a view against
 which the author intends to argue, and the final
 paragraph states the author’s argument against
 that view.
-
-The final paragraph offers procedures to
+(E) The final paragraph offers procedures to
 supplement the method described in the second
 paragraph.
 

@@ -1,11 +1,18 @@
 from lsat_objects import Test, Prompt, Condition, Question, Answer
 
 def sandbox():
-    tests = read_tests()
-    for test in tests:
-        print(test)
+    prompts = read_prompts()
+
+    statements = [prompt.get_insert() for prompt in prompts]
+
+    for statement in statements:
+        print(statement)
 
 def main():
+
+    tests = read_tests()
+    scores = read_scores()
+    prompts = read_prompts()
     
     statements = []
 
@@ -36,24 +43,114 @@ def read_tests():
     file = open('lsats-codified/tests.txt', 'r')
     tests = []
 
-    line = file.readline()[0:-1]
+    line = file.readline()[:-1]
 
     while(line!=''):
         tests.append(Test(line).get_insert())
-        line = file.readline()[0:-1]
+        line = file.readline()[:-1]
 
     file.close()
-
     return tests
 
 
+def read_scores():
+
+    file = open('lsats-codified/scores.txt', 'r')
+    scores = {}
+    metadata = file.readline()[:-1]
+
+    for i in range(105):
+        scores[i] = []
+
+    line = file.readline()[:-1]
+    
+    while(line!=''):
+        score_info = line.split(',')
+        # map of all possible lsat scores for any given raw score
+        # ie. raw score: 90   lsat score: 170, 169, 173, 171
+        scores[int(scores_info[1])].append(scores_info[2])
+        
+        line = file.readline()[:-1]
+        
+    file.close()
+    return scores
+    
+
+def read_prompts():
+
+    file = open('lsats-codified/prompts.txt', 'r', encoding = 'utf8')
+    prompts = []
+
+    line = file.readline()[:-1]
+    
+    section = 1
+    content = ''
+    content_lines = []
+    
+    while(section !=5):
+
+        if(line == '.'):
+            section +=1
+            line = file.readline()
+        elif(line == ''):
+            content = single_line(content_lines)
+            prompts.append(Prompt(section, content))
+            
+            content_lines = []
+        else:
+            content_lines.append(line)
+            
+        line = file.readline()[:-1]
+
+    file.close()
+    return prompts
+    
+    
+def read_questions():
+
+    file = open('lsats-codified/questions.txt', 'r', encoding = 'utf8')
+    questions = []
+
+    line = file.readline()[:-1]
+    section = 1
+    content_lines = []
+    content = ''
+    prompt = 0
+
+    while(section!=5):
+
+        if(line=='.'):
+            section += 1
+            line = file.readline()
+        elif(line =='-'):
+            prompt +=1
+            line = file.readline()
+        elif(line==''):
+            if(section==2 or section ==3):
+                prompt+=1
+            content = single_line(content_lines)
+            questions.append(Question(prompt, content))
+            content_lines = []
+        else:
+            content_lines.append(line)
+            
+        line = file.readline()[:-1]
+
+    file.close()
+    return questions
 
 
+def single_line(lines):
+    
+    single_line = ''
+    
+    for line in lines:
+        single_line += line + ' '
+        
+    return single_line[:-1]
 
 
-
-
-
+    
 
 
 
